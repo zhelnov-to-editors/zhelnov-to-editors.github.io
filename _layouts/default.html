@@ -56,11 +56,11 @@
 
       <section id="main_content">
         {% if lang == "ru" %}
+            {{ content }}
         {% else %}
             {% capture include %}{% include README.md %}{% endcapture %}
             {{ include | markdownify }}
         {% endif %}
-        {{ content }}
       </section>
 
       <footer>
