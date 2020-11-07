@@ -55,9 +55,11 @@
 
       <section id="main_content">
         {% if page.url contains "ru" %}
-            {% include ru.md %}
+            {% capture include %}{% include ru.md %}{% endcapture %}
+            {{ include | markdownify }}
         {% else %}
-            {% include en.md %}
+            {% capture include %}{% include en.md %}{% endcapture %}
+            {{ include | markdownify }}
         {% endif %}
         {{ content }}
       </section>
