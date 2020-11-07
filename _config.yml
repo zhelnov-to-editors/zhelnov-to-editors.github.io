@@ -23,3 +23,15 @@ support:
 share:
   en: "Share the link to this letter:"
   ru: "Поделиться ссылкой на это письмо:" 
+progress:
+  en: "Funds raised for the translation:"
+  ru: "Собрано средств на перевод:"
+currency:
+  en: USD
+  ru: "руб."
+data-max:
+  en: 700
+  ru: 55000
+data-value:
+  en: 0
+  ru: 0

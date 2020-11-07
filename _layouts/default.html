@@ -20,6 +20,9 @@
     <meta name="msapplication-TileImage" content="/assets/favicons/mstile-144x144.png">
     <meta name="theme-color" content="#18222d">
 
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@loadingio/loading-bar@0.1.1/dist/loading-bar.min.js"/>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@loadingio/loading-bar@0.1.1/lib/loading-bar.min.js"></script>
+
     <script src="{{ '/assets/js/modernizr.js' | relative_url }}"></script>
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/headsmart.min.js' | relative_url }}"></script>
@@ -77,6 +80,8 @@
       <footer>
         <p>{{ site.share[lang] }}</p>
         <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox_w98c"></div>
+        <p>{{ site.progress[lang] }}</p>
+        <div class="ldBar label-center" data-unit="{{ site.currency[lang] }}" data-min="0" data-max="{{ site.data-max[lang] }}" data-preset="energy" data-value="{{ site.data-value[lang] }}"></div>
         <p>{{ site.support[lang] }}</p>
         <p><a href="https://sbp.nspk.ru/"><img src="/assets/images/sbp.png" alt="Система быстрых платежей" class="responsive-img"></a><a href="https://paypal.me/pjelnov"><img src="/assets/images/paypalme.png" alt="PayPal.Me" class="responsive-img"></a></p>
         <span class="ribbon-outer">
