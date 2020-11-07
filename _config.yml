@@ -1,5 +1,11 @@
 theme: jekyll-theme-merlot
-title: Zhelnov to Editors
-description: An open letter to editors of medical journals by Pavel Zhelnov about his Russian translation of the PRISMA 2020 Statement.
-show_downloads: "false"
 google_analytics: UA-122303329-4
+show_downloads: false
+includes_dir: .
+lang: en
+title:
+  en: Zhelnov to Editors
+  ru: Желнов — редакторам
+description:
+  en: An open letter to editors of medical journals by Pavel Zhelnov about his Russian translation of the PRISMA 2020 Statement.
+  ru: Открытое письмо Павла Желнова редакторам медицинских журналов о его русском переводе заявления PRISMA 2020.
