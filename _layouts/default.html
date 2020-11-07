@@ -54,6 +54,11 @@
 
 
       <section id="main_content">
+        {% if page.url contains "ru" %}
+            {% include {{ "ru.md" }} %}
+        {% else %}
+            {% include {{ "en.md" }} %}
+        {% endif %}
         {{ content }}
       </section>
 
