@@ -20,7 +20,7 @@ To ensure transparency, I will publish the list of parties I made contact with a
 
 Thank you for your help! I believe I have made the right choice seeking it from you.
 
-Sincerely,
+Best regards,
 <br>
 Pavel Zhelnov, MD
 
