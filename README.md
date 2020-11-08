@@ -12,9 +12,9 @@ Personally, I have been [taking part in the PRISMA 2020 development](https://doi
 
 **Disclaimer: The PRISMA 2020 team, Cochrane Russia, other organizations and persons were never involved in creation of this Letter and never endorsed it. This Letter and my crowdfunding campaign are my sole responsibility.**
 
-But why donate if I do the translation anyway? Crowdfunding will let me continue my independent evidence synthesis career and bring new quality research to the world. If crowdfunding fails, I will still translate the PRISMA 2020 Statement but will likely not be able to continue my open research activities in 2021.
+But why donate if I do the translation anyway? Crowdfunding will let me continue my independent evidence synthesis career and bring new quality research to the world. If crowdfunding fails, I will still translate the PRISMA 2020 Statement but will likely not be able to continue my Open Science activities in 2021.
 
-If you are interested in increasing Russian-speaking presence in evidence synthesis, please support my translation by either sharing this Letter or making a donation using the links at the bottom of this page. You can also contact me directly via [email](mailto:pavel@zheln.com), via [Telegram](https://t.me/drzhelnov), on [Twitter](https://twitter.com/drzhelnov), or on [Facebook](https://facebook.com/drzhelnov). 
+If you are interested in increasing Russian-speaking presence in evidence synthesis, please support my translation by either disseminating this Letter or making a donation using the links at the bottom of this page. You can also contact me directly via [email](mailto:pavel@zheln.com), via [Telegram](https://t.me/drzhelnov), on [Twitter](https://twitter.com/drzhelnov), or on [Facebook](https://facebook.com/drzhelnov). 
 
 To ensure transparency, I will publish the list of parties I made contact with as well as their reactions to this Letter in the table below.
 
