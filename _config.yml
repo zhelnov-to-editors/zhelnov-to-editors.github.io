@@ -38,3 +38,6 @@ data-max:
 data-value:
   en: 0.01
   ru: 0.01
+no-downloads-height:
+  en: 250px
+  ru: 220px
