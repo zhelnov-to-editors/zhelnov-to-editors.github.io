@@ -6,8 +6,26 @@ lang: en
 author:
   twitter: drzhelnov
   picture: /assets/images/pavelzhelnov.jpg
+twitter:
+  username: drzhelnov
+  card: summary
+facebook:
+  admins: 4553361461371192
+logo: /assets/pavelzhelnov.jpg
+social:
+  name: Pavel Zhelnov
+  links:
+    - https://twitter.com/drzhelnov
+    - https://www.facebook.com/drzhelnov
+    - https://www.linkedin.com/in/pavel-zhelnov-382073182
+    - https://github.com/pussiatoday
+    - http://scholar.google.com/citations?user=b421BNkAAAAJ
+    - http://orcid.org/0000-0003-2767-5123
+    - https://researchgate.net/profile/Pavel_Zhelnov
+    - https://osf.io/9c83x/
+    - https://t.me/drzhelnov
 title: Zhelnov to Editors
-description: An open letter to editors of medical journals by Pavel Zhelnov about his Russian translation of the PRISMA 2020 Statement. | Открытое письмо Павла Желнова редакторам медицинских журналов о его русском переводе заявления PRISMA 2020.
+description: An open letter to editors of medical journals by Pavel Zhelnov about his Russian translation of the PRISMA 2020 Statement.
 header:
   en: Zhelnov to Editors
   ru: Желнов — редакторам

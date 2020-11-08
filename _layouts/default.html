@@ -39,8 +39,10 @@
         }
     </style>
 
-{% seo title=false %}
+{% seo title=false description=false %}
   <title>{{ site.header[lang] | default: site.title }}</title>
+  <meta name="description" content="{{ site.headline[lang] | default: site.description }}" />
+  <meta property="og:description" content="{{ site.headline[lang] | default: site.description }}" />
   </head>
 
   <body>
