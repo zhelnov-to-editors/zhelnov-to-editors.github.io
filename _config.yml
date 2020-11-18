@@ -70,6 +70,8 @@ party:
   nejm:
     title: NEJM
     email: email@example.com
+    status: not-sent-yet
   imbp:
     title: Авиакосмическая и экологическая медицина
     email: orlov@imbp.ru
+    status: not-sent-yet

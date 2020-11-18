@@ -107,8 +107,9 @@
             </tr>
           </thead>
           <tbody>
-            <tr><td><a href="mailto:{{ site.party.nejm.email }}">{{ site.party.nejm.title }}</a></td><td>{{ site.table.not-sent-yet[lang] }}</td></tr>
-            <tr><td><a href="mailto:{{ site.party.imbp.email }}">{{ site.party.imbp.title }}</a></td><td>{{ site.table.not-sent-yet[lang] }}</td></tr>
+            {% for party in site.party %}
+              <tr><td><a href="mailto:{{ party.email }}">{{ party.title }}</a></td><td>{{ site.table[{{ party.status }}][lang] }}</td></tr>
+            {% endfor %}
           </tbody>
       </section>
 
