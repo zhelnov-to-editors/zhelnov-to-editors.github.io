@@ -27,6 +27,10 @@ lang: ru
 <br>
 Павел Желнов
 
-[ORCID](https://orcid.org/0000-0003-2767-5123) | [OSF](https://osf.io/9c83x) | [GitHub](https://github.com/pussiatoday) | [ResearchGate](https://researchgate.net/profile/Pavel_Zhelnov)
+[ORCID](https://orcid.org/0000-0003-2767-5123) | [ResearchGate](https://researchgate.net/profile/Pavel_Zhelnov)
 
-[Email](mailto:pavel@zheln.com) | [Twitter](https://twitter.com/drzhelnov) | [Facebook](https://facebook.com/drzhelnov) | [Telegram](https://t.me/drzhelnov)
+[OSF](https://osf.io/9c83x) | [GitHub](https://github.com/pussiatoday)
+
+[Email](mailto:pavel@zheln.com) | [Telegram](https://t.me/drzhelnov)
+
+[Twitter](https://twitter.com/drzhelnov) | [Facebook](https://facebook.com/drzhelnov)
