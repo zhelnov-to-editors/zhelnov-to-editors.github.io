@@ -68,8 +68,12 @@ table:
     ru: Еще не отправлено
 party:
   - title: NEJM
-    email: email@example.com
+    website: https://www.nejm.org/
+    name: Maria Sedjo
+    email: msedjo@nejm.org
     status: not-sent-yet
   - title: Авиакосмическая и экологическая медицина
+    website: http://journal.imbp.ru/
+    name: Олег Орлов
     email: orlov@imbp.ru
     status: not-sent-yet
