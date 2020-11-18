@@ -1,18 +1,16 @@
 # _Dear editorial team,_
 
-I hereby inform you that I have embarked on translating the _**PRISMA 2020 Statement,**_ that was published on September 14th, 2020, as a [MetaArXiv preprint](https://doi.org/10.31222/osf.io/v7gm2), into Russian. Since 2009, there has been no published Russian version of PRISMA, while Russian-speaking presence in evidence synthesis has been remarkably low.
-
-Personally, I have been [taking part in the PRISMA 2020 development](https://doi.org/10.17605/OSF.IO/MKCB5) ever since I learned about it. However, it is increasingly more difficult for me as I am a self-employed researcher with no institutional affiliations and have no funding for this research (nor did I ever have). This is why I am launching a crowdfunding campaign:
-
-* The [PRISMA 2020 Statement preprint](https://doi.org/10.31222/osf.io/v7gm2) is roughly 70,000 characters in length. My translation rate is $10 per 1,000 characters, so I would like to raise a minimum of **$700.**
-* The [PRISMA 2020 Explanation & Elaboration preprint](https://doi.org/10.31222/osf.io/gwdhk) is roughly 160,000 characters in length, so if I raise **$2,300** in total, I will definitely translate both the statement and the explanation & elaboration paper.
-* If I raise more than $2,300 in total, I will relocate the excess funds into [my separate nonprofit Open Evidence Synthesis project](https://zheln.com).
-
-**However, I pledge to translate the PRISMA 2020 Statement into Russian regardless of my funding.** That is because I have already promised this to the [PRISMA 2020 team lead](https://twitter.com/mjpages) and the team at [Cochrane Russia](https://russia.cochrane.org), who will help ensure successful completion of the official translation process.
+This is Pavel Zhelnov, an independent researcher from Saint Petersburg, Russia. I hereby inform you that I have embarked on translating the _**PRISMA 2020 Statement,**_ that was published on September 14th, 2020, as a [MetaArXiv preprint](https://doi.org/10.31222/osf.io/v7gm2), into Russian. 
 
 **Disclaimer: The PRISMA 2020 team, Cochrane Russia, other organizations and persons were never involved in creation of this Letter and never endorsed it. This Letter and my crowdfunding campaign are my sole responsibility.**
 
-But why donate if I do the translation anyway? Crowdfunding will let me continue my independent evidence synthesis career and bring new quality research to the world. If crowdfunding fails, I will still translate the PRISMA 2020 Statement but will likely not be able to continue my Open Science activities in 2021.
+Since 2009, there has been no published Russian version of PRISMA, while Russian-speaking presence in evidence synthesis has been remarkably low. These shortcomings have motivated [my involvement in the PRISMA 2020 development](https://doi.org/10.17605/OSF.IO/MKCB5). However, I am a self-employed researcher with no institutional affiliations and have no funding for this research (nor did I ever have). This is why I am launching a crowdfunding campaign and asking you to support it.
+
+In addition to providing direct financial support for the PRISMA translation, crowdfunding will let me continue my independent evidence synthesis career. If crowdfunding fails, I will still translate the PRISMA 2020 Statement but will likely not be able to continue my Open Science activities in 2021.
+
+**I should stress that I will translate the PRISMA 2020 Statement into Russian regardless of my funding.** I have already promised this to the [PRISMA 2020 team lead](https://twitter.com/mjpages) and the team at [Cochrane Russia](https://russia.cochrane.org), who will help ensure successful completion of the official translation process. At the same time, it will likely not be fair if my work is not compensated.
+
+The [PRISMA 2020 Statement preprint](https://doi.org/10.31222/osf.io/v7gm2) is roughly 70,000 characters in length, so, assuming the translation rate of $10 per 1,000 characters, the project cost is **$700.** Depending on the amount raised, I would like to additionally translate the [PRISMA 2020 Explanation & Elaboration preprint](https://doi.org/10.31222/osf.io/gwdhk), a separate document roughly 160,000 characters in length (**$2,300** in total). I will relocate any excess funds into [my separate nonprofit Open Evidence Synthesis project](https://zheln.com).
 
 If you are interested in increasing Russian-speaking presence in evidence synthesis, please support my translation by either disseminating this Letter or making a donation using the links at the bottom of this page. You can also contact me directly via [email](mailto:pavel@zheln.com), via [Telegram](https://t.me/drzhelnov), on [Twitter](https://twitter.com/drzhelnov), or on [Facebook](https://facebook.com/drzhelnov). 
 
