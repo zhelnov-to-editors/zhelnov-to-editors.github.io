@@ -67,11 +67,9 @@ table:
     en: Not sent yet
     ru: Еще не отправлено
 party:
-  - nejm:
-      title: NEJM
-      email: email@example.com
-      status: not-sent-yet
-  - imbp:
-      title: Авиакосмическая и экологическая медицина
-      email: orlov@imbp.ru
-      status: not-sent-yet
+  - title: NEJM
+    email: email@example.com
+    status: not-sent-yet
+  - title: Авиакосмическая и экологическая медицина
+    email: orlov@imbp.ru
+    status: not-sent-yet
