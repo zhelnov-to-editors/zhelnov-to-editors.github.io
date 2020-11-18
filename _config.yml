@@ -56,3 +56,20 @@ data-max:
 data-value:
   en: 0.01
   ru: 0.01
+table:
+  party:
+    en: Party
+    ru: Лицо
+  status:
+    en: Status
+    ru: Статус
+  not-sent-yet:
+    en: Not sent yet
+    ru: Еще не отправлено
+party:
+  nejm:
+    title: NEJM
+    email: email@example.com
+  imbp:
+    title: Авиакосмическая и экологическая медицина
+    email: orlov@imbp.ru
