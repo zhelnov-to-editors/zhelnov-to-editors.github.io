@@ -115,7 +115,7 @@
           </thead>
           <tbody>
             {% for party in site.party %}
-              <tr><td><a href="mailto:{{ party.email }}">{{ party.name }}</a> (<em><strong><a href="{{ party.website }}">{{ party.title }}</a></strong></em>)</td><td>{{ site.table[party.status][lang] }}</td></tr>
+              <tr><td><a href="mailto:{{ party.email }}">{{ party.name }}</a><br><em><strong><a href="{{ party.website }}">{{ party.title }}</a></strong></em></td><td>{{ site.table[party.status][lang] }}</td></tr>
             {% endfor %}
           </tbody>
         </table>
