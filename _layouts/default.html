@@ -99,7 +99,15 @@
             {% capture include %}{% include README.md %}{% endcapture %}
             {{ include | markdownify }}
         {% endif %}
-        
+      </section>
+
+      <footer>
+        <p>{{ site.share[lang] }}</p>
+        <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox_w98c"></div>
+        <p>{{ site.progress[lang] }}</p>
+        <div style="width: 100%" class="ldBar label-center" data-min="0" data-max="{{ site.data-max[lang] }}" data-preset="stripe" data-value="{{ site.data-value[lang] }}"></div>
+        <p>{{ site.support[lang] }}</p>
+        <p><a href="https://sbp.nspk.ru/"><img src="/assets/images/sbp.png" alt="Система быстрых платежей" class="responsive-img"></a><a href="https://paypal.me/pjelnov"><img src="/assets/images/paypalme.png" alt="PayPal.Me" class="responsive-img"></a></p>
         <table>
           <thead>
             <tr>
@@ -112,15 +120,7 @@
               <tr><td><a href="mailto:{{ party.email }}">{{ party.name }}</a> (<em><a href="{{ party.website }}">{{ party.title }}</a></em>)</td><td>{{ site.table[party.status][lang] }}</td></tr>
             {% endfor %}
           </tbody>
-      </section>
-
-      <footer>
-        <p>{{ site.share[lang] }}</p>
-        <!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_inline_share_toolbox_w98c"></div>
-        <p>{{ site.progress[lang] }}</p>
-        <div style="width: 100%" class="ldBar label-center" data-min="0" data-max="{{ site.data-max[lang] }}" data-preset="stripe" data-value="{{ site.data-value[lang] }}"></div>
-        <p>{{ site.support[lang] }}</p>
-        <p><a href="https://sbp.nspk.ru/"><img src="/assets/images/sbp.png" alt="Система быстрых платежей" class="responsive-img"></a><a href="https://paypal.me/pjelnov"><img src="/assets/images/paypalme.png" alt="PayPal.Me" class="responsive-img"></a></p>
+        </table>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
              <p>{{ site.generated-with[lang] }} <a href="https://pages.github.com">GitHub Pages</a> {{ site.using[lang] }} Merlot <span class="octocat"></span></p>
