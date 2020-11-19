@@ -58,6 +58,9 @@ data-value:
   en: 0.01
   ru: 0.01
 table:
+  caption:
+    en: "Table of Recipients:"
+    ru: "Таблица получателей:"
   party:
     en: Party
     ru: Лицо

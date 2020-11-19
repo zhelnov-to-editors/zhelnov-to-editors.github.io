@@ -4,7 +4,7 @@ This is Pavel Zhelnov, an independent researcher from Saint Petersburg, Russia. 
 
 **Disclaimer: The PRISMA 2020 team, Cochrane Russia, other organizations and persons were never involved in creation of this Letter and never endorsed it. This Letter and my crowdfunding campaign are my sole responsibility.**
 
-Since 2009, there has been no published Russian version of PRISMA, while Russian-speaking presence in evidence synthesis has been remarkably low. These shortcomings have motivated [my involvement in the PRISMA 2020 development](https://doi.org/10.17605/OSF.IO/MKCB5). However, [I am a self-employed researcher with no institutional affiliations](https://orcid.org/0000-0003-2767-5123) and have no funding for this research (nor did I ever have). This is why I am launching a crowdfunding campaign and asking you to support it.
+Since 2009, there has been no published Russian translation of key PRISMA articles (just the translated [checklist](http://www.prisma-statement.org/documents/PRISMA%20Russian%20checklist.pdf) and the [flow diagram](http://www.prisma-statement.org/documents/PRISMA%20Russian%20flow%20diagram.pdf) have been published), while Russian-speaking presence in evidence synthesis has been remarkably low. These shortcomings have motivated [my involvement in the PRISMA 2020 development](https://doi.org/10.17605/OSF.IO/MKCB5). However, [I am a self-employed researcher with no institutional affiliations](https://orcid.org/0000-0003-2767-5123) and have no funding for this research (nor did I ever have). This is why I am launching a crowdfunding campaign and asking you to support it.
 
 In addition to providing direct financial support for the PRISMA translation, crowdfunding will let me continue my independent evidence synthesis career. If crowdfunding fails, I will still translate the PRISMA 2020 Statement but will likely not be able to continue [my Open Science activities](https://p1m.org) in 2021.
 
@@ -14,7 +14,7 @@ The [PRISMA 2020 Statement preprint](https://doi.org/10.31222/osf.io/v7gm2) is r
 
 If you are interested in increasing Russian-speaking presence in evidence synthesis, please support my translation by either disseminating this Letter or becoming a sponsor using the links at the bottom of this page. You can also contact me directly via [email](mailto:pavel@zheln.com), via [Telegram](https://t.me/drzhelnov), on [Twitter](https://twitter.com/drzhelnov), or on [Facebook](https://facebook.com/drzhelnov). 
 
-To ensure transparency, I will publish the list of parties I made contact with as well as their reactions to this Letter in the table below.
+To ensure transparency, I will publish the list of parties I made contact with as well as their reactions to this Letter in the [Table of Recipients](https://zhelnov-to-editors.github.io/en/#table) below.
 
 Thank you for your support! I believe I have made the right choice seeking it from you.
 
