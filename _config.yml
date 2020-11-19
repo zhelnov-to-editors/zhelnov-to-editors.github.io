@@ -78,3 +78,13 @@ party:
     name: Олег Орлов
     email: orlov@imbp.ru
     status: not-sent-yet
+  - title: Акушерство и гинекология
+    website: https://aig-journal.ru/
+    name: Геннадий Сухих
+    email: g_sukhikh@oparina4.ru
+    status: not-sent-yet
+  - title: Анализ риска здоровью
+    website: https://journal.fcrisk.ru/
+    name: Геннадий Онищенко
+    email: onishchenko@duma.gov.ru
+    status: not-sent-yet
