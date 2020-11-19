@@ -22,10 +22,8 @@ Best regards,
 <br>
 Pavel Zhelnov, MD
 
-[ORCID](https://orcid.org/0000-0003-2767-5123) | [ResearchGate](https://researchgate.net/profile/Pavel_Zhelnov)
+Portfolio: [GitHub](https://github.com/pussiatoday), [OSF](https://osf.io/9c83x), [ORCID](https://orcid.org/0000-0003-2767-5123), [ResearchGate](https://researchgate.net/profile/Pavel_Zhelnov)
 
-[OSF](https://osf.io/9c83x) | [GitHub](https://github.com/pussiatoday)
+Contact: [Email](mailto:pavel@zheln.com), [Telegram](https://t.me/drzhelnov), [Twitter](https://twitter.com/drzhelnov), [Facebook](https://facebook.com/drzhelnov)
 
-[Email](mailto:pavel@zheln.com) | [Telegram](https://t.me/drzhelnov)
-
-[Twitter](https://twitter.com/drzhelnov) | [Facebook](https://facebook.com/drzhelnov)
+Send money: [Система быстрых платежей](https://sbp.nspk.ru/) (79216572472), [PayPal.Me](https://paypal.me/pjelnov) (pjelnov), [Patreon](https://patreon.com/zheln) (Zheln), [GitHub Sponsors](https://github.com/sponsors/drzhelnov) (drzhelnov), [Open Collective](https://opencollective.com/zheln) (Zheln)
