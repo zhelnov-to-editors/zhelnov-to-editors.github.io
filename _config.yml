@@ -72,9 +72,9 @@ table:
     ru: Еще не отправлено
 party:
   - title: Journal of Veterinary Internal Medicine
-    website: 
-    name: 
-    email: 
+    website: https://onlinelibrary.wiley.com/journal/19391676
+    name: Ivy Leventhal
+    email: jvim@acvim.org
     status: not-sent-yet
   - title: ВИЧ-инфекция и иммуносупрессии
     website: 
