@@ -71,218 +71,218 @@ table:
     en: Not sent yet
     ru: Еще не отправлено
 party:
-  - title: Bulletin of Russian State Medical University
-  - title: Cellular Therapy and Transplantation
-  - title: Opera Medica et Physiologica
+  - title: Journal of Veterinary Internal Medicine
+  - title: ВИЧ-инфекция и иммуносупрессии
+  - title: International Journal of COPD
+  - title: Upsala Journal of Medical Sciences
+  - title: Врач и информационные технологии
+  - title: Инфекция и иммунитет
+  - title: DNA Research
+  - title: European Cells and Materials
+  - title: JAMA network open
+  - title: Вестник аритмологии
+  - title: "Environmental Health: A Global Access Science Source"
+  - title: Veterinary Quarterly
+  - title: Oxidative Medicine and Cellular Longevity
+  - title: Core Evidence (discontinued)
+  - title: Yale Journal of Biology and Medicine
+  - title: "Proceedings of the Japan Academy Series B: Physical and Biological Sciences"
+  - title: International Journal of Infectious Diseases
+  - title: British Medical Journal
+  - title: Российский иммунологический журнал
+  - title: Nutrition Journal
+  - title: Angle Orthodontist
+  - title: Genomics, Proteomics and Bioinformatics
+  - title: F1000Research
+  - title: Кардиоваскулярная терапия и профилактика
+  - title: Неотложная медицинская помощь. Журнал им. Н.В. Склифосовского
+  - title: Stem cells translational medicine
+  - title: Journal of Endovascular Therapy
+  - title: Acta Dermato-Venereologica
+  - title: Acta Orthopaedica
+  - title: Cell Proliferation
+  - title: Archives of Medical Science
+  - title: Nanotheranostics
+  - title: Детские инфекции
+  - title: Biomolecular Concepts
+  - title: Радиация и риск (Бюллетень Национального радиационно-эпидемиологического регистра)
+  - title: Клиническая и экспериментальная морфология
+  - title: Weekly epidemiological record. Releve epidemiologique hebdomadaire. World Health Organization
+  - title: Journal of Tissue Engineering
+  - title: Circulation Journal
+  - title: Journal of Multidisciplinary Healthcare
+  - title: Биомедицина
+  - title: BMB Reports
+  - title: Опухоли головы и шеи
+  - title: Сибирский психологический журнал
+  - title: Genetics, Selection, Evolution
+  - title: Фармакоэкономика. Современная фармакоэкономика и фармакоэпидемиология
+  - title: MMWR. Morbidity and mortality weekly report
+  - title: Advanced Science
+  - title: Обозрение психиатрии и медицинской психологии имени В.М. Бехтерева
+  - title: Neurosurgical Focus
+  - title: Туберкулез и болезни легких
+  - title: Clinical and molecular hepatology
+  - title: Российский кардиологический журнал
+  - title: Evolution, Medicine and Public Health
+  - title: Memorias do Instituto Oswaldo Cruz
+  - title: Человек. Спорт. Медицина
+  - title: Frontiers in Cellular and Infection Microbiology
+  - title: Journal of Gynecologic Oncology
+  - title: Particle and Fibre Toxicology
+  - title: Социальная и клиническая психиатрия
+  - title: Journal of Psychiatry and Neuroscience
+  - title: Проблеми ендокринної патологiї
+  - title: Journal of Behavioral Addictions
+  - title: Cancer Science
+  - title: Molecular Oncology
+  - title: Журнал инфектологии
   - title: Research Results in Pharmacology
+  - title: Orphanet Journal of Rare Diseases
+  - title: Онкоурология
+  - title: Вопросы современной педиатрии
   - title: Russian Open Medical Journal
+  - title: Journal of Rehabilitation Medicine
+  - title: Journal of Headache and Pain
+  - title: Проблемы особо опасных инфекций
+  - title: Хирургия позвоночника
+  - title: Harm Reduction Journal
+  - title: BMC Palliative Care
+  - title: Nucleus
+  - title: Российский электронный журнал лучевой диагностики
+  - title: Доктор.Ру
+  - title: World Journal of Gastroenterology
+  - title: Медичні перспективи
+  - title: Fluids and Barriers of the CNS
+  - title: BMC Neurology
+  - title: Современные технологии в медицине
+  - title: Рациональная фармакотерапия в кардиологии
+  - title: Transgender Health
+  - title: Cellular Therapy and Transplantation
+  - title: Health Technology Assessment
+  - title: Нервно-мышечные болезни
+  - title: Journal of Biomedical Science
+  - title: Protein &amp; Cell
+  - title: Annals of Translational Medicine (discontinued)
+  - title: Trials
+  - title: Исследования и практика в медицине
+  - title: Journal of Epidemiology
+  - title: Drug Delivery
+  - title: Systematic Reviews
+  - title: International Journal of Nanomedicine
+  - title: Implementation Science
+  - title: Российский биотерапевтический журнал
+  - title: Экспериментальная и клиническая урология
+  - title: "G3: Genes, Genomes, Genetics"
+  - title: BMC Gastroenterology
+  - title: Blood Transfusion
+  - title: Вестник хирургии им. И.И. Грекова
+  - title: BMC Medicine
+  - title: Stem Cell Research and Therapy
+  - title: Атеросклероз и дислипидемии
+  - title: "MMWR. Recommendations and reports : Morbidity and mortality weekly report. Recommendations and reports / Centers for Disease Control"
+  - title: Health Research Policy and Systems
+  - title: Бюллетень сибирской медицины
+  - title: Clinical Interventions in Aging
+  - title: Journal of Athletic Training
+  - title: Патология кровообращения и кардиохирургия
+  - title: BMC psychology
+  - title: Суицидология
+  - title: Медико-биологические и социально-психологические проблемы безопасности в чрезвычайных ситуациях
+  - title: International Journal of Molecular Sciences
+  - title: Новости хирургии
+  - title: Journal of Personalized Medicine
+  - title: Cell Structure and Function
+  - title: Tumor Biology
+  - title: Фармация и фармакология
+  - title: Allergology International
+  - title: PLoS Medicine
+  - title: Clinical and Translational Science
+  - title: Сахарный диабет
+  - title: Травматология и ортопедия России
+  - title: Current Issues in Molecular Biology
+  - title: Nutrition and Healthy Aging
+  - title: Cancer Imaging
+  - title: Клиническая фармакология и терапия
+  - title: Артериальная гипертензия
+  - title: Вопросы онкологии
+  - title: Experimental and Molecular Medicine
+  - title: Journal of Microbiology, Immunology and Infection
+  - title: Педиатрическая фармакология
+  - title: The Lancet Global Health
+  - title: DMM Disease Models and Mechanisms
+  - title: Казанский медицинский журнал
+  - title: Molecular Systems Biology
+  - title: Acta Ophthalmologica
+  - title: "Journal of the Medical Library Association : JMLA"
+  - title: Радиационная гигиена
+  - title: Ожирение и метаболизм
+  - title: Вопросы вирусологии
+  - title: Социальные аспекты здоровья населения
+  - title: Онкопедиатрия
+  - title: EClinicalMedicine
+  - title: eLife
+  - title: Вопросы гематологии/онкологии и иммунопатологии в педиатрии
+  - title: American Journal of Translational Research
+  - title: Eurosurveillance
+  - title: Journal of Nanobiotechnology
+  - title: EBioMedicine
+  - title: Bulletin of Russian State Medical University
+  - title: Wellcome Open Research
+  - title: Archaea
+  - title: Journal of Diabetes Investigation
+  - title: Biomedicines
+  - title: npj Microgravity
+  - title: Гений ортопедии
+  - title: International Journal of Behavioral Nutrition and Physical Activity
+  - title: Lupus Science and Medicine
+  - title: Медицинский вестник Северного Кавказа
+  - title: Yeast
+  - title: Нейрохирургия
+  - title: eNeuro
+  - title: Неврология, нейропсихиатрия, психосоматика
+  - title: Global Advances In Health and Medicine
+  - title: Разработка и регистрация лекарственных средств
+  - title: Theranostics
+  - title: PeerJ
+  - title: Nutrition and Metabolism
+  - title: Анналы аритмологии
+  - title: Journal of Translational Medicine
+  - title: Biomedical Journal
+  - title: Клиническая микробиология и антимикробная химиотерапия
+  - title: Journal of Immunology Research
+  - title: The Lancet Planetary Health
+  - title: BMJ Open
+  - title: Annals of Clinical Microbiology and Antimicrobials
+  - title: Biomaterials Research
+  - title: Патологiя
+  - title: Health and Quality of Life Outcomes
+  - title: Opera Medica et Physiologica
+  - title: Perspectives on Medical Education
+  - title: Emerging Microbes and Infections
+  - title: Social Cognitive and Affective Neuroscience
   - title: Анализ риска здоровью
     website: https://journal.fcrisk.ru/
     name: Геннадий Онищенко
     email: onishchenko@duma.gov.ru
     status: not-sent-yet
-  - title: Анналы аритмологии
-  - title: Анналы клинической и экспериментальной неврологии
-  - title: Артериальная гипертензия
-  - title: Атеросклероз и дислипидемии
-  - title: Биомедицина
-  - title: Бюллетень сибирской медицины
-  - title: Вестник аритмологии
-  - title: Вестник офтальмологии
   - title: Вестник РОНЦ им. Н. Н. Блохина РАМН
-  - title: Вестник трансплантологии и искусственных органов
-  - title: Вестник хирургии им. И.И. Грекова
-  - title: ВИЧ-инфекция и иммуносупрессии
-  - title: Вопросы вирусологии
-  - title: Вопросы гематологии/онкологии и иммунопатологии в педиатрии
-  - title: Вопросы онкологии
-  - title: Вопросы современной педиатрии
-  - title: Врач и информационные технологии
-  - title: Гений ортопедии
-  - title: Гены и Клетки
-  - title: Детские инфекции
-  - title: Доктор.Ру
-  - title: Журнал инфектологии
-  - title: Запорожский медицинский журнал
-  - title: Инфекция и иммунитет
-  - title: Исследования и практика в медицине
-  - title: Казанский медицинский журнал
-  - title: Кардиоваскулярная терапия и профилактика
-  - title: Клиническая и экспериментальная морфология
-  - title: Клиническая микробиология и антимикробная химиотерапия
-  - title: Клиническая фармакология и терапия
-  - title: Медико-биологические и социально-психологические проблемы безопасности в чрезвычайных ситуациях
-  - title: Медицинский вестник Северного Кавказа
-  - title: Медичні перспективи
-  - title: Неврология, нейропсихиатрия, психосоматика
-  - title: Нейрохирургия
-  - title: Неотложная медицинская помощь. Журнал им. Н.В. Склифосовского
-  - title: Нервно-мышечные болезни
-  - title: Новости хирургии
-  - title: Обозрение психиатрии и медицинской психологии имени В.М. Бехтерева
-  - title: Общая реаниматология
-  - title: Ожирение и метаболизм
-  - title: Онкогематология
-  - title: Онкопедиатрия
-  - title: Онкоурология
-  - title: Опухоли головы и шеи
-  - title: Патологiя
-  - title: Патология кровообращения и кардиохирургия
-  - title: Педиатрическая фармакология
-  - title: Проблеми ендокринної патологiї
-  - title: Проблемы особо опасных инфекций
-  - title: Радиационная гигиена
-  - title: Радиация и риск (Бюллетень Национального радиационно-эпидемиологического регистра)
-  - title: Разработка и регистрация лекарственных средств
-  - title: Рациональная фармакотерапия в кардиологии
-  - title: Российский биотерапевтический журнал
-  - title: Российский иммунологический журнал
-  - title: Российский кардиологический журнал
-  - title: Российский электронный журнал лучевой диагностики
-  - title: Русский журнал детской неврологии
-  - title: Сахарный диабет
-  - title: Сибирский онкологический журнал
-  - title: Сибирский психологический журнал
-  - title: Современные технологии в медицине
-  - title: Социальная и клиническая психиатрия
-  - title: Социальные аспекты здоровья населения
-  - title: Суицидология
-  - title: Травматология и ортопедия России
-  - title: Туберкулез и болезни легких
-  - title: Фармакоэкономика. Современная фармакоэкономика и фармакоэпидемиология
-  - title: "Фармакоэкономика: теория и практика"
-  - title: Фармация и фармакология
-  - title: Хирургия позвоночника
-  - title: Человек. Спорт. Медицина
-  - title: Экология человека
-  - title: Экспериментальная и клиническая урология
-  - title: Acta Dermato-Venereologica
-  - title: Acta Ophthalmologica
-  - title: Acta Orthopaedica
-  - title: Advanced Science
-  - title: Allergology International
-  - title: Altex
-  - title: American Journal of Translational Research
-  - title: Angle Orthodontist
-  - title: Annals of Clinical Microbiology and Antimicrobials
-  - title: Annals of Translational Medicine (discontinued)
-  - title: Archaea
-  - title: Archives of Medical Science
-  - title: Behavioral and Brain Functions
-  - title: Biomaterials Research
-  - title: Biomedical Journal
-  - title: Biomedicines
-  - title: Biomolecular Concepts
-  - title: Blood Transfusion
-  - title: BMB Reports
-  - title: BMC Gastroenterology
-  - title: BMC Medicine
-  - title: BMC Neurology
-  - title: BMC Palliative Care
-  - title: BMC psychology
-  - title: BMJ Open
-  - title: British Medical Journal
-  - title: Cancer Imaging
-  - title: Cancer Science
   - title: Cell Death and Disease
-  - title: Cell Proliferation
-  - title: Cell Structure and Function
   - title: Channels
-  - title: Circulation Journal
-  - title: Clinical and molecular hepatology
-  - title: Clinical and Translational Science
-  - title: Clinical Interventions in Aging
-  - title: Core Evidence (discontinued)
-  - title: Current Issues in Molecular Biology
-  - title: DMM Disease Models and Mechanisms
-  - title: DNA Research
-  - title: Drug Delivery
-  - title: EBioMedicine
-  - title: EClinicalMedicine
-  - title: eLife
-  - title: Emerging Microbes and Infections
-  - title: eNeuro
-  - title: "Environmental Health: A Global Access Science Source"
-  - title: European Cells and Materials
-  - title: Eurosurveillance
-  - title: Evolution, Medicine and Public Health
-  - title: Experimental and Molecular Medicine
-  - title: F1000Research
-  - title: Fluids and Barriers of the CNS
-  - title: Frontiers in Cellular and Infection Microbiology
+  - title: Анналы клинической и экспериментальной неврологии
+  - title: Экология человека
+  - title: Онкогематология
+  - title: Запорожский медицинский журнал
+  - title: Гены и Клетки
+  - title: Общая реаниматология
+  - title: Altex
+  - title: Сибирский онкологический журнал
   - title: Frontiers in Medicine
-  - title: "G3: Genes, Genomes, Genetics"
-  - title: Genetics, Selection, Evolution
-  - title: Genomics, Proteomics and Bioinformatics
-  - title: Global Advances In Health and Medicine
-  - title: Harm Reduction Journal
-  - title: Health and Quality of Life Outcomes
-  - title: Health Research Policy and Systems
-  - title: Health Technology Assessment
-  - title: Implementation Science
-  - title: Infectious Diseases of Poverty
-  - title: International Journal of Behavioral Nutrition and Physical Activity
-  - title: International Journal of COPD
-  - title: International Journal of Infectious Diseases
-  - title: International Journal of Molecular Sciences
-  - title: International Journal of Nanomedicine
-  - title: JAMA network open
-  - title: Journal of Athletic Training
-  - title: Journal of Behavioral Addictions
-  - title: Journal of Biomedical Science
-  - title: Journal of Diabetes Investigation
-  - title: Journal of Endovascular Therapy
-  - title: Journal of Epidemiology
-  - title: Journal of Gynecologic Oncology
-  - title: Journal of Headache and Pain
-  - title: Journal of Immunology Research
-  - title: Journal of Microbiology, Immunology and Infection
-  - title: Journal of Multidisciplinary Healthcare
-  - title: Journal of Nanobiotechnology
-  - title: Journal of Orthopaedics and Traumatology
-  - title: Journal of Personalized Medicine
-  - title: Journal of Psychiatry and Neuroscience
-  - title: Journal of Rehabilitation Medicine
-  - title: "Journal of the Medical Library Association : JMLA"
-  - title: Journal of Tissue Engineering
-  - title: Journal of Translational Medicine
-  - title: Journal of Veterinary Internal Medicine
-  - title: Lupus Science and Medicine
-  - title: Memorias do Instituto Oswaldo Cruz
-  - title: MMWR. Morbidity and mortality weekly report
-  - title: "MMWR. Recommendations and reports : Morbidity and mortality weekly report. Recommendations and reports / Centers for Disease Control"
-  - title: Molecular Oncology
-  - title: Molecular Systems Biology
-  - title: Nanotheranostics
-  - title: Neurosurgical Focus
-  - title: npj Microgravity
-  - title: Nucleus
-  - title: Nutrition and Healthy Aging
-  - title: Nutrition and Metabolism
-  - title: Nutrition Journal
-  - title: Orphanet Journal of Rare Diseases
-  - title: Oxidative Medicine and Cellular Longevity
-  - title: Particle and Fibre Toxicology
-  - title: PeerJ
-  - title: Perspectives on Medical Education
-  - title: PLoS Medicine
-  - title: "Proceedings of the Japan Academy Series B: Physical and Biological Sciences"
-  - title: Protein & Cell
-  - title: Social Cognitive and Affective Neuroscience
-  - title: Stem Cell Research and Therapy
-  - title: Stem cells translational medicine
-  - title: Systematic Reviews
-  - title: The Lancet Global Health
-  - title: The Lancet Planetary Health
-  - title: Theranostics
   - title: Therapeutic Advances in Chronic Disease
-  - title: Transgender Health
-  - title: Trials
-  - title: Tumor Biology
-  - title: Upsala Journal of Medical Sciences
-  - title: Veterinary Quarterly
-  - title: Weekly epidemiological record. Releve epidemiologique hebdomadaire. World Health Organization
-  - title: Wellcome Open Research
-  - title: World Journal of Gastroenterology
-  - title: Yale Journal of Biology and Medicine
-  - title: Yeast
+  - title: "Фармакоэкономика: теория и практика"
+  - title: Infectious Diseases of Poverty
+  - title: Русский журнал детской неврологии
+  - title: Journal of Orthopaedics and Traumatology
+  - title: Вестник трансплантологии и искусственных органов
+  - title: Behavioral and Brain Functions
+  - title: Вестник офтальмологии
