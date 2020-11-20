@@ -71,6 +71,16 @@ table:
     en: Not sent yet
     ru: Еще не отправлено
 party:
+  - title: АНРИ
+    website: https://rasep.ru
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: ICMJE
+    website: http://www.icmje.org
+    name: 
+    email: 
+    status: not-sent-yet
   - title: Journal of Veterinary Internal Medicine
     website: https://onlinelibrary.wiley.com/journal/19391676
     name: Ivy Leventhal
