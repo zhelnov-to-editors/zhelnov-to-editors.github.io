@@ -179,30 +179,30 @@ party:
     email: xlin@sibs.ac.cn?cc=lorraine.brennan@ucd.ie
     status: sent-no-reply-yet
   - title: Атеросклероз и дислипидемии
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://noatero.ru/ru/noa/jurnal
+    name: Валерий Кухарчук
+    email: v_kukharch@mail.ru
+    status: sent-no-reply-yet
   - title: Neurosurgical Focus
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://thejns.org/focus/view/journals/neurosurg-focus/neurosurg-focus-overview.xml
+    name: William Couldwell
+    email: William.Couldwell@hsc.utah.edu
+    status: sent-no-reply-yet
   - title: Particle and Fibre Toxicology
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://particleandfibretoxicology.biomedcentral.com/
+    name: Flemming Cassee
+    email: f.r.cassee@uu.nl
+    status: sent-no-reply-yet
   - title: Cellular Therapy and Transplantation
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: http://www.cttjournal.com/
+    name: Александр Кулагин
+    email: kulagingem@rambler.ru
+    status: sent-no-reply-yet
   - title: DNA Research
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://academic.oup.com/dnaresearch
+    name: Satoshi Tabata
+    email: tabata@kazusa.or.jp
+    status: sent-no-reply-yet
   - title: Protein & Cell
     website: 
     name: 
