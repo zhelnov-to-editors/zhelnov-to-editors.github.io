@@ -170,15 +170,15 @@ party:
     email: jvim@acvim.org
     status: sent-auto-replied
   - title: ВИЧ-инфекция и иммуносупрессии
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://hiv.bmoc-spb.ru/jour
+    name: Николай Беляков
+    email: beliakov.akad.spb@yandex.ru
+    status: sent-no-reply-yet
   - title: International Journal of COPD
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://www.dovepress.com/international-journal-of-chronic-obstructive-pulmonary-disease-journal
+    name: Richard Russell
+    email: richard.russell@ndm.ox.ac.uk
+    status: sent-no-reply-yet
   - title: Upsala Journal of Medical Sciences
     website: 
     name: 
