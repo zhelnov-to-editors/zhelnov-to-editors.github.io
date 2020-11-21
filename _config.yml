@@ -74,7 +74,7 @@ table:
     en: Sent, no reply yet
     ru: Отправлено, ответа пока нет
   sent-auto-replied:
-    en: Sent, autoreply received
+    en: Sent, auto-reply received
     ru: Отправлено, получен автоответ
   sent-undelivered:
     en: Sent, undelivered, returned
