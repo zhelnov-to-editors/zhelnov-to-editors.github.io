@@ -149,20 +149,20 @@ party:
     email: shugu19@gubin.spb.ru
     status: resent-no-reply-yet
   - title: Biomedicines
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://www.mdpi.com/journal/biomedicines
+    name: Shaker Mousa
+    email: shaker.mousa@acphs.edu
+    status: sent-no-reply-yet
   - title: Bulletin of the World Health Organization
     website: https://www.who.int/publications/journals/bulletin/
     name: Laragh Gollogly
     email: golloglyl@who.int
     status: sent-no-reply-yet
   - title: Journal of Orthopaedics and Traumatology
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://jorthoptraumatol.springeropen.com
+    name: Marco d’Imporzano
+    email: dimpomarco@live.it
+    status: sent-no-reply-yet
   - title: F1000Research
     website: 
     name: 
