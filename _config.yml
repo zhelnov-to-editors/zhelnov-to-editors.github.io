@@ -134,20 +134,20 @@ party:
     email: frank.frizelle@cdhb.health.nz
     status: sent-no-reply-yet
   - title: Опухоли головы и шеи
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://ogsh.abvpress.ru/index.php/jour
+    name: Сергей Подвязников
+    email: info@hnonco.ru
+    status: sent-no-reply-yet
   - title: Cancer Science
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://onlinelibrary.wiley.com/journal/13497006
+    name: Kohei Miyazono
+    email: miyazono@m.u-tokyo.ac.jp
+    status: sent-no-reply-yet
   - title: Гений ортопедии
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: http://ilizarov-journal.com/index.php/go
+    name: Александр Губин
+    email: gubin_av@ilizarov.ru
+    status: sent-undelivered
   - title: Biomedicines
     website: 
     name: 
