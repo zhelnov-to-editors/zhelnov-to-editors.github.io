@@ -72,14 +72,84 @@ table:
     ru: Еще не отправлено
 party:
   - title: АНРИ
-    website: https://rasep.ru
-    name: 
-    email: 
+    website: https://rassep.ru
+    name: Ольга Кириллова
+    email: kirillova@rasep.ru
     status: not-sent-yet
   - title: ICMJE
     website: http://www.icmje.org
+    name: Darren Taichman
+    email: dtaichman@acponline.org
+    status: not-sent-yet
+  - title: Annals of Internal Medicine
+    website: 
     name: 
     email: 
+    status: not-sent-yet
+  - title: Bulletin of the World Health Organization
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Deutsches Ärzteblatt
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Ethiopian Journal of Health Sciences
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: JAMA
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Journal of Korean Medical Science
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: New England Journal of Medicine
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: New Zealand Medical Journal
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: The Lancet
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Revista Médica de Chile
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Ugeskrift for Laeger
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: WAME
+    website: http://www.wame.org/
+    name: Joey Lapeña
+    email: lapenajf@upm.edu.ph
+    status: not-sent-yet
+  - title: CSE
+    website: https://www.councilscienceeditors.org/
+    name: Tim Bennett
+    email: CSE@councilscienceeditors.org
+    status: not-sent-yet
+  - title: EASE
+    website: https://ease.org.uk/
+    name: Mary Hodgson
+    email: secretary@ease.org.uk
     status: not-sent-yet
   - title: Journal of Veterinary Internal Medicine
     website: https://onlinelibrary.wiley.com/journal/19391676
