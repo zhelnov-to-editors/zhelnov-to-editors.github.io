@@ -108,11 +108,6 @@ party:
     name: Тетяна Перцева
     email: tpertseva@dma.dp.ua
     status: sent-no-reply-yet
-  - title: Вестник РОНЦ им. Н. Н. Блохина РАМН
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
   - title: Deutsches &Auml;rzteblatt
     website: https://www.aerzteblatt.de
     name: Egbert Maibach-Nagel
