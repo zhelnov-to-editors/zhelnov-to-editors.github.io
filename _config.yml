@@ -95,63 +95,63 @@ party:
     email: dtaichman@acponline.org
     status: sent-no-reply-yet
   - title: Annals of Internal Medicine
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://www.acpjournals.org/j
+    name: Christine Laine
+    email: lainec@mail.acponline.org
+    status: sent-undelivered
   - title: Bulletin of the World Health Organization
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://www.who.int/publications/journals/bulletin/
+    name: Laragh Gollogly
+    email: golloglyl@who.int
+    status: sent-no-reply-yet
   - title: Deutsches Ärzteblatt
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://www.aerzteblatt.de
+    name: Egbert Maibach-Nagel
+    email: aerzteblatt@aerzteblatt.de
+    status: sent-no-reply-yet
   - title: Ethiopian Journal of Health Sciences
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://www.ethjhealths.org
+    name: Abraham Haileamlak
+    email: asratab@yahoo.com
+    status: sent-no-reply-yet
   - title: JAMA
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://jamanetwork.com/journals/jama
+    name: Howard Bauchner
+    email: howard.bauchner@jamanetwork.org
+    status: sent-no-reply-yet
   - title: Journal of Korean Medical Science
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://jkms.org
+    name: Sung-Tae Hong
+    email: hst@snu.ac.kr
+    status: sent-no-reply-yet
   - title: New England Journal of Medicine
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://www.nejm.org/
+    name: Maria Sedjo
+    email: msedjo@nejm.org
+    status: sent-no-reply-yet
   - title: New Zealand Medical Journal
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://www.nzma.org.nz/journal
+    name: Frank Frizelle
+    email: frank.frizelle@cdhb.health.nz
+    status: sent-no-reply-yet
   - title: The Lancet
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://www.thelancet.com/journals/lancet/home
+    name: Richard Horton
+    email: richard.horton@lancet.com
+    status: sent-no-reply-yet
   - title: Revista Médica de Chile
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://scielo.conicyt.cl/scielo.php?script=sci_serial&pid=0034-9887
+    name: Fernando Florenzano U
+    email: revmedchile@smschile.cl
+    status: sent-no-reply-yet
   - title: Ugeskrift for Laeger
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://ugeskriftet.dk
+    name: Anja Pinborg
+    email: anja.bisgaard.pinborg@regionh.dk
+    status: sent-no-reply-yet
   - title: WAME
     website: http://www.wame.org/
-    name: Joey Lapeña
+    name: José Florencio Lapeña, Jr
     email: lapenajf@upm.edu.ph
     status: sent-no-reply-yet
   - title: CSE
@@ -250,10 +250,10 @@ party:
     email: 
     status: not-sent-yet
   - title: British Medical Journal
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://www.bmj.com
+    name: Fiona Godlee
+    email: fgodlee@bmj.com
+    status: sent-no-reply-yet
   - title: Российский иммунологический журнал
     website: 
     name: 
