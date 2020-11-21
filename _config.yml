@@ -70,17 +70,20 @@ table:
   not-sent-yet:
     en: Not sent yet
     ru: Еще не отправлено
+  sent-no-reply-yet:
+    en: Sent, no reply yet
+    ru: Отправлено, ответа пока нет
 party:
   - title: АНРИ
     website: https://rassep.ru
     name: Ольга Кириллова
     email: kirillova@rasep.ru
-    status: not-sent-yet
+    status: sent-no-reply-yet
   - title: ICMJE
     website: http://www.icmje.org
     name: Darren Taichman
     email: dtaichman@acponline.org
-    status: not-sent-yet
+    status: sent-no-reply-yet
   - title: Annals of Internal Medicine
     website: 
     name: 
@@ -140,22 +143,22 @@ party:
     website: http://www.wame.org/
     name: Joey Lapeña
     email: lapenajf@upm.edu.ph
-    status: not-sent-yet
+    status: sent-no-reply-yet
   - title: CSE
     website: https://www.councilscienceeditors.org/
     name: Tim Bennett
     email: CSE@councilscienceeditors.org
-    status: not-sent-yet
+    status: sent-no-reply-yet
   - title: EASE
     website: https://ease.org.uk/
     name: Mary Hodgson
     email: secretary@ease.org.uk
-    status: not-sent-yet
+    status: sent-no-reply-yet
   - title: Journal of Veterinary Internal Medicine
     website: https://onlinelibrary.wiley.com/journal/19391676
     name: Ivy Leventhal
     email: jvim@acvim.org
-    status: not-sent-yet
+    status: sent-no-reply-yet
   - title: ВИЧ-инфекция и иммуносупрессии
     website: 
     name: 
@@ -1105,7 +1108,7 @@ party:
     website: https://journal.fcrisk.ru/
     name: Геннадий Онищенко
     email: onishchenko@duma.gov.ru
-    status: not-sent-yet
+    status: sent-no-reply-yet
   - title: Вестник РОНЦ им. Н. Н. Блохина РАМН
     website: 
     name: 
