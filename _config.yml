@@ -108,7 +108,7 @@ party:
     name: Тетяна Перцева
     email: tpertseva@dma.dp.ua
     status: sent-no-reply-yet
-  - title: Deutsches &Auml;rzteblatt
+  - title: Deutsches Ärzteblatt
     website: https://www.aerzteblatt.de
     name: Egbert Maibach-Nagel
     email: aerzteblatt@aerzteblatt.de
@@ -203,7 +203,7 @@ party:
     name: 
     email: 
     status: not-sent-yet
-  - title: Protein &amp;amp; Cell
+  - title: Protein & Cell
     website: 
     name: 
     email: 
@@ -335,7 +335,7 @@ party:
     status: not-sent-yet
   - title: WAME
     website: http://www.wame.org/
-    name: Jos&eacute; Florencio Lape&ntilde;a, Jr
+    name: José Florencio Lapeña, Jr
     email: lapenajf@upm.edu.ph
     status: sent-no-reply-yet
   - title: Angle Orthodontist
@@ -753,8 +753,8 @@ party:
     name: 
     email: 
     status: not-sent-yet
-  - title: Revista M&eacute;dica de Chile
-    website: https://scielo.conicyt.cl/scielo.php?script=sci_serial&amp;pid=0034-9887
+  - title: Revista Médica de Chile
+    website: https://scielo.conicyt.cl/scielo.php?script=sci_serial&pid=0034-9887
     name: Fernando Florenzano U
     email: revmedchile@smschile.cl
     status: sent-no-reply-yet
