@@ -114,20 +114,20 @@ party:
     email: aerzteblatt@aerzteblatt.de
     status: sent-no-reply-yet
   - title: Радиация и риск (Бюллетень Национального радиационно-эпидемиологического регистра)
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: http://radiation-and-risk.com/
+    name: Виктор Иванов
+    email: ivanov@nrer.ru
+    status: sent-no-reply-yet
   - title: Медицинский вестник Северного Кавказа
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://medvestnik.stgmu.ru
+    name: Александр Ягода
+    email: alexander.yagoda@gmail.com
+    status: sent-no-reply-yet
   - title: The Lancet Planetary Health
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://www.thelancet.com/journals/lanplh/home
+    name: Alastair Brown
+    email: Alastair.Brown@lancet.com
+    status: sent-no-reply-yet
   - title: New Zealand Medical Journal
     website: https://www.nzma.org.nz/journal
     name: Frank Frizelle
