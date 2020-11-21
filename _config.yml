@@ -79,6 +79,9 @@ table:
   sent-undelivered:
     en: Sent, undelivered, returned
     ru: Отправлено, не доставлено, возвращено
+  resent-no-reply-yet:
+    en: Resent, no reply yet
+    ru: Отправлено повторно, ответа пока нет
 
 party:
   - title: АНРИ
@@ -1114,8 +1117,8 @@ party:
   - title: Анализ риска здоровью
     website: https://journal.fcrisk.ru/
     name: Геннадий Онищенко
-    email: onishchenko@duma.gov.ru
-    status: sent-undelivered
+    email: journal@fcrisk.ru
+    status: resent-no-reply-yet
   - title: Вестник РОНЦ им. Н. Н. Блохина РАМН
     website: 
     name: 
