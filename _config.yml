@@ -73,6 +73,13 @@ table:
   sent-no-reply-yet:
     en: Sent, no reply yet
     ru: Отправлено, ответа пока нет
+  sent-auto-replied:
+    en: Sent, autoreply received
+    ru: Отправлено, получен автоответ
+  sent-undelivered:
+    en: Sent, undelivered, returned
+    ru: Отправлено, не доставлено, возвращено
+
 party:
   - title: АНРИ
     website: https://rassep.ru
@@ -158,7 +165,7 @@ party:
     website: https://onlinelibrary.wiley.com/journal/19391676
     name: Ivy Leventhal
     email: jvim@acvim.org
-    status: sent-no-reply-yet
+    status: sent-auto-replied
   - title: ВИЧ-инфекция и иммуносупрессии
     website: 
     name: 
@@ -1108,7 +1115,7 @@ party:
     website: https://journal.fcrisk.ru/
     name: Геннадий Онищенко
     email: onishchenko@duma.gov.ru
-    status: sent-no-reply-yet
+    status: sent-undelivered
   - title: Вестник РОНЦ им. Н. Н. Блохина РАМН
     website: 
     name: 
