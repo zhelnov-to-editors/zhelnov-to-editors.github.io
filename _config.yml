@@ -164,20 +164,20 @@ party:
     email: dimpomarco@live.it
     status: sent-no-reply-yet
   - title: F1000Research
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://f1000research.com
+    name: Michael Markie
+    email: research@f1000.com
+    status: sent-no-reply-yet
   - title: Core Evidence (discontinued)
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://www.dovepress.com/core-evidence-journal
+    name: Garry Walsh
+    email: g.m.walsh@abdn.ac.uk
+    status: sent-no-reply-yet
   - title: Nutrition and Metabolism
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://nutritionandmetabolism.biomedcentral.com
+    name: Xu Lin; Lorraine Brennan
+    email: xlin@sibs.ac.cn?cc=lorraine.brennan@ucd.ie
+    status: sent-no-reply-yet
   - title: Атеросклероз и дислипидемии
     website: 
     name: 
