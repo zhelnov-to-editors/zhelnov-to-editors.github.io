@@ -224,30 +224,30 @@ party:
     email: wangxh@njmu.edu.cn?cc=sunyhsmmu@126.com, drjianxing.he@gmail.com
     status: sent-no-reply-yet
   - title: Русский журнал детской неврологии
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://rjdn.abvpress.ru/jour
+    name: Андрей Петрухин
+    email: epineuro@ya.ru
+    status: sent-no-reply-yet
   - title: Journal of Korean Medical Science
     website: https://jkms.org
     name: Sung-Tae Hong
     email: hst@snu.ac.kr
     status: sent-no-reply-yet
   - title: Российский кардиологический журнал
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://russjcardiol.elpub.ru/jour/index
+    name: Евгений Шляхто
+    email: e.shlyakhto@almazovcentre.ru
+    status: sent-no-reply-yet
   - title: Вопросы вирусологии
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://virusjour.elpub.ru/jour/index
+    name: Дмитрий Львов
+    email: dk_lvov@mail.ru
+    status: sent-no-reply-yet
   - title: Health Research Policy and Systems
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://health-policy-systems.biomedcentral.com/
+    name: Fadi El-Jardali; Tari Turner
+    email: fe08@aub.edu.lb?cc=Tari.Turner@monash.edu
+    status: sent-no-reply-yet
   - title: Archives of Medical Science
     website: 
     name: 
