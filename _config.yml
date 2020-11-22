@@ -55,8 +55,8 @@ data-max:
   en: 700
   ru: 56000
 data-value:
-  en: 8.31
-  ru: 664.8
+  en: 10
+  ru: 800
 table:
   caption:
     en: "Table of Recipients (in a random order):"
