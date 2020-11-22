@@ -89,1087 +89,17 @@ table:
     en: Replied, sent money 💸
     ru: Ответили, отправили деньги 💸
 party:
-  - title: 
-    website: 
-    name: Matthew Page
-    email: 
-    status: replied-voiced-support
-  - title: 
-    website: 
-    name: Лилия Зиганшина
-    email: 
-    status: replied-voiced-support
-  - title: Transgender Health
-    website: https://home.liebertpub.com/publications/transgender-health/634/
-    name: Robert Garofalo
-    email: r-garofalo@northwestern.edu
-    status: sent-no-reply-yet
-  - title: Bulletin of Russian State Medical University
-    website: https://vestnik.rsmu.press
-    name: Денис Ребриков
-    email: rebrikov_dv@rsmu.ru
-    status: sent-no-reply-yet
-  - title: Journal of Veterinary Internal Medicine
-    website: https://onlinelibrary.wiley.com/journal/19391676
-    name: Ivy Leventhal
-    email: jvim@acvim.org
-    status: sent-auto-replied
-  - title: Journal of Diabetes Investigation
-    website: https://onlinelibrary.wiley.com/journal/20401124
-    name: Nigishi Hotta
-    email: JDI@wiley.com
-    status: sent-no-reply-yet
-  - title: Медичні перспективи
-    website: https://medpers.dsma.dp.ua
-    name: Тетяна Перцева
-    email: tpertseva@dma.dp.ua
-    status: sent-no-reply-yet
-  - title: Deutsches Ärzteblatt
-    website: https://www.aerzteblatt.de
-    name: Egbert Maibach-Nagel
-    email: aerzteblatt@aerzteblatt.de
-    status: sent-no-reply-yet
-  - title: Радиация и риск (Бюллетень Национального радиационно-эпидемиологического регистра)
-    website: http://radiation-and-risk.com/
-    name: Виктор Иванов
-    email: ivanov@nrer.ru
-    status: sent-no-reply-yet
-  - title: Медицинский вестник Северного Кавказа
-    website: https://medvestnik.stgmu.ru
-    name: Александр Ягода
-    email: alexander.yagoda@gmail.com
-    status: sent-no-reply-yet
-  - title: The Lancet Planetary Health
-    website: https://www.thelancet.com/journals/lanplh/home
-    name: Alastair Brown
-    email: Alastair.Brown@lancet.com
-    status: sent-no-reply-yet
-  - title: New Zealand Medical Journal
-    website: https://www.nzma.org.nz/journal
-    name: Frank Frizelle
-    email: frank.frizelle@cdhb.health.nz
-    status: sent-no-reply-yet
-  - title: Опухоли головы и шеи
-    website: https://ogsh.abvpress.ru/index.php/jour
-    name: Сергей Подвязников
-    email: info@hnonco.ru
-    status: sent-no-reply-yet
-  - title: Cancer Science
-    website: https://onlinelibrary.wiley.com/journal/13497006
-    name: Kohei Miyazono
-    email: miyazono@m.u-tokyo.ac.jp
-    status: sent-no-reply-yet
-  - title: Гений ортопедии
-    website: http://ilizarov-journal.com/index.php/go
-    name: Александр Губин
-    email: shugu19@gubin.spb.ru
-    status: replied-sent-money
-  - title: Biomedicines
-    website: https://www.mdpi.com/journal/biomedicines
-    name: Shaker Mousa
-    email: shaker.mousa@acphs.edu
-    status: sent-no-reply-yet
-  - title: Bulletin of the World Health Organization
-    website: https://www.who.int/publications/journals/bulletin/
-    name: Laragh Gollogly
-    email: golloglyl@who.int
-    status: sent-no-reply-yet
-  - title: Journal of Orthopaedics and Traumatology
-    website: https://jorthoptraumatol.springeropen.com
-    name: Marco d’Imporzano
-    email: dimpomarco@live.it
-    status: sent-no-reply-yet
-  - title: F1000Research
-    website: https://f1000research.com
-    name: Michael Markie
-    email: research@f1000.com
-    status: sent-no-reply-yet
-  - title: Core Evidence
-    website: https://www.dovepress.com/core-evidence-journal
-    name: Garry Walsh
-    email: g.m.walsh@abdn.ac.uk
-    status: sent-no-reply-yet
-  - title: Nutrition and Metabolism
-    website: https://nutritionandmetabolism.biomedcentral.com
-    name: Xu Lin; Lorraine Brennan
-    email: xlin@sibs.ac.cn?cc=lorraine.brennan@ucd.ie
-    status: sent-no-reply-yet
-  - title: Атеросклероз и дислипидемии
-    website: https://noatero.ru/ru/noa/jurnal
-    name: Валерий Кухарчук
-    email: v_kukharch@mail.ru
-    status: sent-no-reply-yet
-  - title: Neurosurgical Focus
-    website: https://thejns.org/focus/view/journals/neurosurg-focus/neurosurg-focus-overview.xml
-    name: William Couldwell
-    email: William.Couldwell@hsc.utah.edu
-    status: sent-no-reply-yet
-  - title: Particle and Fibre Toxicology
-    website: https://particleandfibretoxicology.biomedcentral.com/
-    name: Flemming Cassee
-    email: f.r.cassee@uu.nl
-    status: sent-no-reply-yet
-  - title: Cellular Therapy and Transplantation
-    website: http://www.cttjournal.com/
-    name: Александр Кулагин
-    email: kulagingem@rambler.ru
-    status: sent-no-reply-yet
-  - title: DNA Research
-    website: https://academic.oup.com/dnaresearch
-    name: Satoshi Tabata
-    email: tabata@kazusa.or.jp
-    status: sent-no-reply-yet
-  - title: Protein & Cell
-    website: https://www.springer.com/journal/13238
-    name: Zihe Rao
-    email: raozh@shanghaitech.edu.cn?cc=raozh@mail.tsinghua.edu.cn
-    status: sent-no-reply-yet
-  - title: Онкопедиатрия
-    website: http://www.spr-journal.ru/ojs/index.php/onco
-    name: Владимир Поляков
-    email: vgp-04@mail.ru
-    status: sent-no-reply-yet
-  - title: Фармакоэкономика. Современная фармакоэкономика и фармакоэпидемиология
-    website: https://www.pharmacoeconomics.ru/jour
-    name: Виталий Омельяновский
-    email: vvo@hta-rus.ru
-    status: sent-undelivered
-  - title: Annals of Translational Medicine
-    website: http://atm.amegroups.com/
-    name: Xuehao Wang; Yinghao Sun; Jianxing He
-    email: wangxh@njmu.edu.cn?cc=sunyhsmmu@126.com, drjianxing.he@gmail.com
-    status: sent-no-reply-yet
-  - title: Русский журнал детской неврологии
-    website: https://rjdn.abvpress.ru/jour
-    name: Андрей Петрухин
-    email: epineuro@ya.ru
-    status: sent-no-reply-yet
-  - title: Journal of Korean Medical Science
-    website: https://jkms.org
-    name: Sung-Tae Hong
-    email: hst@snu.ac.kr
-    status: sent-no-reply-yet
-  - title: Российский кардиологический журнал
-    website: https://russjcardiol.elpub.ru/jour/index
-    name: Евгений Шляхто
-    email: e.shlyakhto@almazovcentre.ru
-    status: sent-no-reply-yet
-  - title: Вопросы вирусологии
-    website: https://virusjour.elpub.ru/jour/index
-    name: Дмитрий Львов
-    email: dk_lvov@mail.ru
-    status: sent-no-reply-yet
-  - title: Health Research Policy and Systems
-    website: https://health-policy-systems.biomedcentral.com/
-    name: Fadi El-Jardali; Tari Turner
-    email: fe08@aub.edu.lb?cc=Tari.Turner@monash.edu
-    status: sent-no-reply-yet
-  - title: Archives of Medical Science
-    website: https://www.termedia.pl/Journal/Archives_of_Medical_Science-19
-    name: Maciej Banach
-    email: m.banach@termedia.pl
-    status: sent-no-reply-yet
-  - title: Детские инфекции
-    website: https://detinf.elpub.ru/jour
-    name: Василий Учайкин
-    email: uchaikin_vf@rsmu.ru?cc=uchaikin@list.ru
-    status: sent-no-reply-yet
-  - title: Orphanet Journal of Rare Diseases
-    website: https://ojrd.biomedcentral.com/
-    name: Francesc Palau
-    email: fpalau@sjdhospitalbarcelona.org
-    status: sent-no-reply-yet
-  - title: "Фармакоэкономика: теория и практика"
-    website: https://pharmacoeconom.com/
-    name: Роза Ягудина
-    email: yagudina@inbox.ru
-    status: sent-no-reply-yet
-  - title: Вопросы современной педиатрии
-    website: https://vsp.spr-journal.ru/jour
-    name: Александр Баранов
-    email: baranov@pediatr-russia.ru
-    status: sent-no-reply-yet
-  - title: Allergology International
-    website: https://www.journals.elsevier.com/allergology-international
-    name: Hiroshi Nakajima
-    email: nakajimh@faculty.chiba-u.jp
-    status: sent-no-reply-yet
-  - title: World Journal of Gastroenterology
-    website: https://www.wjgnet.com/1007-9327/
-    name: Subrata Ghosh; Andrzej Tarnawski
-    email: ghoshs@bham.ac.uk?cc=atarnawski@yahoo.com
-    status: sent-undelivered
-  - title: BMJ Open
-    website: https://bmjopen.bmj.com/
-    name: Adrian Aldcroft
-    email: adrian.aldcroft@biomedcentral.com
-    status: sent-undelivered
-  - title: Новости хирургии
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Современные технологии в медицине
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: The Lancet Global Health
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: EASE
-    website: https://ease.org.uk/
-    name: Mary Hodgson
-    email: secretary@ease.org.uk
-    status: sent-no-reply-yet
-  - title: "MMWR. Recommendations and reports : Morbidity and mortality weekly report. Recommendations and reports / Centers for Disease Control"
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Biomolecular Concepts
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Journal of Behavioral Addictions
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Cell Proliferation
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Journal of Psychiatry and Neuroscience
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: WAME
-    website: http://www.wame.org/
-    name: José Florencio Lapeña, Jr
-    email: lapenajf@upm.edu.ph
-    status: sent-no-reply-yet
-  - title: Angle Orthodontist
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Clinical Interventions in Aging
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Анналы аритмологии
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Yeast
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: BMC Palliative Care
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Harm Reduction Journal
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Perspectives on Medical Education
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Nanotheranostics
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Туберкулез и болезни легких
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Health and Quality of Life Outcomes
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Eurosurveillance
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Казанский медицинский журнал
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Blood Transfusion
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: JAMA
-    website: https://jamanetwork.com/journals/jama
-    name: Howard Bauchner
-    email: howard.bauchner@jamanetwork.org
-    status: sent-no-reply-yet
-  - title: Неотложная медицинская помощь. Журнал им. Н.В. Склифосовского
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Кардиоваскулярная терапия и профилактика
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Медико-биологические и социально-психологические проблемы безопасности в чрезвычайных ситуациях
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Вестник офтальмологии
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Социальная и клиническая психиатрия
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Journal of Tissue Engineering
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: JAMA network open
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Nutrition and Healthy Aging
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Рациональная фармакотерапия в кардиологии
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: "Proceedings of the Japan Academy Series B: Physical and Biological Sciences"
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Altex
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Current Issues in Molecular Biology
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Journal of Multidisciplinary Healthcare
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Genetics, Selection, Evolution
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Ethiopian Journal of Health Sciences
-    website: https://www.ethjhealths.org
-    name: Abraham Haileamlak
-    email: asratab@yahoo.com
-    status: sent-no-reply-yet
-  - title: Opera Medica et Physiologica
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: American Journal of Translational Research
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Journal of Headache and Pain
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: BMC Neurology
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Nucleus
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Вестник трансплантологии и искусственных органов
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Systematic Reviews
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Journal of Nanobiotechnology
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: EBioMedicine
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Channels
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: BMC psychology
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Суицидология
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Russian Open Medical Journal
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Общая реаниматология
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Радиационная гигиена
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Cell Structure and Function
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Инфекция и иммунитет
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Journal of Personalized Medicine
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Онкогематология
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Drug Delivery
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: BMB Reports
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Theranostics
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: DMM Disease Models and Mechanisms
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: "Environmental Health: A Global Access Science Source"
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: ICMJE
-    website: http://www.icmje.org
-    name: Darren Taichman
-    email: dtaichman@acponline.org
-    status: sent-no-reply-yet
-  - title: Clinical and molecular hepatology
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Патологiя
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: АНРИ
-    website: https://rassep.ru
-    name: Ольга Кириллова
-    email: kirillova@rasep.ru
-    status: sent-no-reply-yet
-  - title: International Journal of COPD
-    website: https://www.dovepress.com/international-journal-of-chronic-obstructive-pulmonary-disease-journal
-    name: Richard Russell
-    email: richard.russell@ndm.ox.ac.uk
-    status: sent-no-reply-yet
-  - title: Доктор.Ру
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Journal of Translational Medicine
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Сахарный диабет
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: CSE
-    website: https://www.councilscienceeditors.org/
-    name: Tim Bennett
-    email: CSE@councilscienceeditors.org
-    status: sent-no-reply-yet
-  - title: eNeuro
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Veterinary Quarterly
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Нейрохирургия
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Проблеми ендокринної патологiї
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: eLife
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Memorias do Instituto Oswaldo Cruz
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Research Results in Pharmacology
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Анналы клинической и экспериментальной неврологии
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: ВИЧ-инфекция и иммуносупрессии
-    website: https://hiv.bmoc-spb.ru/jour
-    name: Николай Беляков
-    email: beliakov.akad.spb@yandex.ru
-    status: sent-no-reply-yet
-  - title: Сибирский психологический журнал
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: PeerJ
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Biomaterials Research
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Upsala Journal of Medical Sciences
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Trials
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Biomedical Journal
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: British Medical Journal
-    website: https://www.bmj.com
-    name: Fiona Godlee
-    email: fgodlee@bmj.com
-    status: sent-no-reply-yet
-  - title: Oxidative Medicine and Cellular Longevity
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: "G3: Genes, Genomes, Genetics"
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Бюллетень сибирской медицины
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: BMC Medicine
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Nutrition Journal
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Revista Médica de Chile
-    website: https://scielo.conicyt.cl/scielo.php?script=sci_serial&pid=0034-9887
-    name: Fernando Florenzano U
-    email: revmedchile@smschile.cl
-    status: sent-no-reply-yet
-  - title: Yale Journal of Biology and Medicine
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Исследования и практика в медицине
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: International Journal of Nanomedicine
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Fluids and Barriers of the CNS
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Molecular Systems Biology
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Wellcome Open Research
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Acta Orthopaedica
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Annals of Clinical Microbiology and Antimicrobials
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: BMC Gastroenterology
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Разработка и регистрация лекарственных средств
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Патология кровообращения и кардиохирургия
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Acta Ophthalmologica
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Российский иммунологический журнал
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Global Advances In Health and Medicine
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Проблемы особо опасных инфекций
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Хирургия позвоночника
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Infectious Diseases of Poverty
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Cancer Imaging
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Клиническая фармакология и терапия
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Acta Dermato-Venereologica
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Molecular Oncology
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Evolution, Medicine and Public Health
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Journal of Rehabilitation Medicine
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Behavioral and Brain Functions
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Weekly epidemiological record. Releve epidemiologique hebdomadaire. World Health Organization
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Journal of Microbiology, Immunology and Infection
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Вопросы онкологии
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Social Cognitive and Affective Neuroscience
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Экология человека
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Clinical and Translational Science
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Неврология, нейропсихиатрия, психосоматика
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: International Journal of Behavioral Nutrition and Physical Activity
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Advanced Science
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Tumor Biology
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Травматология и ортопедия России
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Анализ риска здоровью
-    website: https://journal.fcrisk.ru/
-    name: Геннадий Онищенко
-    email: journal@fcrisk.ru
-    status: resent-no-reply-yet
-  - title: Ожирение и метаболизм
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: MMWR. Morbidity and mortality weekly report
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Experimental and Molecular Medicine
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
   - title: Health Technology Assessment
     website: 
     name: 
     email: 
     status: not-sent-yet
-  - title: Journal of Immunology Research
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Экспериментальная и клиническая урология
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Ugeskrift for Laeger
-    website: https://ugeskriftet.dk
-    name: Anja Pinborg
-    email: anja.bisgaard.pinborg@regionh.dk
-    status: sent-no-reply-yet
-  - title: Гены и Клетки
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Journal of Epidemiology
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Вестник аритмологии
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Archaea
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: New England Journal of Medicine
-    website: https://www.nejm.org/
-    name: Maria Sedjo
-    email: msedjo@nejm.org
-    status: sent-no-reply-yet
-  - title: Frontiers in Cellular and Infection Microbiology
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Человек. Спорт. Медицина
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Emerging Microbes and Infections
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Lupus Science and Medicine
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Социальные аспекты здоровья населения
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: International Journal of Infectious Diseases
+  - title: Новости хирургии
     website: 
     name: 
     email: 
     status: not-sent-yet
   - title: Вопросы гематологии/онкологии и иммунопатологии в педиатрии
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: European Cells and Materials
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Клиническая микробиология и антимикробная химиотерапия
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: "Journal of the Medical Library Association : JMLA"
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Circulation Journal
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: The Lancet
-    website: https://www.thelancet.com/journals/lancet/home
-    name: Richard Horton
-    email: richard.horton@lancet.com
-    status: sent-no-reply-yet
-  - title: Обозрение психиатрии и медицинской психологии имени В.М. Бехтерева
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Артериальная гипертензия
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Genomics, Proteomics and Bioinformatics
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Implementation Science
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Journal of Athletic Training
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Journal of Biomedical Science
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Annals of Internal Medicine
-    website: https://www.acpjournals.org/j
-    name: Christine Laine
-    email: lainec@mail.acponline.org
-    status: sent-undelivered
-  - title: Педиатрическая фармакология
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Журнал инфектологии
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Frontiers in Medicine
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Stem cells translational medicine
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Биомедицина
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Journal of Endovascular Therapy
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Российский биотерапевтический журнал
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Фармация и фармакология
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: International Journal of Molecular Sciences
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Сибирский онкологический журнал
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Онкоурология
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Journal of Gynecologic Oncology
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
-  - title: Cell Death and Disease
     website: 
     name: 
     email: 
@@ -1184,12 +114,82 @@ party:
     name: 
     email: 
     status: not-sent-yet
-  - title: Запорожский медицинский журнал
+  - title: Genomics, Proteomics and Bioinformatics
     website: 
     name: 
     email: 
     status: not-sent-yet
-  - title: Вестник хирургии им. И.И. Грекова
+  - title: Проблеми ендокринної патологiї
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Nanotheranostics
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Радиационная гигиена
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Артериальная гипертензия
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Исследования и практика в медицине
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Annals of Internal Medicine
+    website: https://www.acpjournals.org/j
+    name: Christine Laine
+    email: lainec@mail.acponline.org
+    status: sent-undelivered
+  - title: Weekly epidemiological record. Releve epidemiologique hebdomadaire. World Health Organization
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Cell Proliferation
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Туберкулез и болезни легких
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Transgender Health
+    website: https://home.liebertpub.com/publications/transgender-health/634/
+    name: Robert Garofalo
+    email: r-garofalo@northwestern.edu
+    status: sent-no-reply-yet
+  - title: Анналы клинической и экспериментальной неврологии
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: eLife
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Хирургия позвоночника
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Бюллетень сибирской медицины
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Journal of Personalized Medicine
     website: 
     name: 
     email: 
@@ -1199,12 +199,637 @@ party:
     name: 
     email: 
     status: not-sent-yet
+  - title: Журнал инфектологии
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Altex
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Journal of Epidemiology
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Сибирский онкологический журнал
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: BMB Reports
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: АНРИ
+    website: https://rassep.ru
+    name: Ольга Кириллова
+    email: kirillova@rasep.ru
+    status: sent-no-reply-yet
+  - title: Behavioral and Brain Functions
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: EBioMedicine
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Медико-биологические и социально-психологические проблемы безопасности в чрезвычайных ситуациях
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Revista Médica de Chile
+    website: https://scielo.conicyt.cl/scielo.php?script=sci_serial&pid=0034-9887
+    name: Fernando Florenzano U
+    email: revmedchile@smschile.cl
+    status: sent-no-reply-yet
+  - title: Вопросы современной педиатрии
+    website: https://vsp.spr-journal.ru/jour
+    name: Александр Баранов
+    email: baranov@pediatr-russia.ru
+    status: sent-no-reply-yet
+  - title: Вопросы вирусологии
+    website: https://virusjour.elpub.ru/jour/index
+    name: Дмитрий Львов
+    email: dk_lvov@mail.ru
+    status: sent-no-reply-yet
+  - title: Российский иммунологический журнал
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Инфекция и иммунитет
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Гены и Клетки
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: American Journal of Translational Research
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Russian Open Medical Journal
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Казанский медицинский журнал
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: "Journal of the Medical Library Association : JMLA"
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Опухоли головы и шеи
+    website: https://ogsh.abvpress.ru/index.php/jour
+    name: Сергей Подвязников
+    email: info@hnonco.ru
+    status: sent-no-reply-yet
+  - title: CSE
+    website: https://www.councilscienceeditors.org/
+    name: Tim Bennett
+    email: CSE@councilscienceeditors.org
+    status: sent-no-reply-yet
+  - title: Memorias do Instituto Oswaldo Cruz
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: JAMA
+    website: https://jamanetwork.com/journals/jama
+    name: Howard Bauchner
+    email: howard.bauchner@jamanetwork.org
+    status: sent-no-reply-yet
+  - title: Journal of Behavioral Addictions
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Experimental and Molecular Medicine
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Кардиоваскулярная терапия и профилактика
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Emerging Microbes and Infections
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Радиация и риск (Бюллетень Национального радиационно-эпидемиологического регистра)
+    website: http://radiation-and-risk.com/
+    name: Виктор Иванов
+    email: ivanov@nrer.ru
+    status: sent-no-reply-yet
+  - title: Oxidative Medicine and Cellular Longevity
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Journal of Rehabilitation Medicine
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Онкогематология
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: BMC Gastroenterology
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: WAME
+    website: http://www.wame.org/
+    name: José Florencio Lapeña, Jr
+    email: lapenajf@upm.edu.ph
+    status: sent-no-reply-yet
+  - title: Journal of Immunology Research
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Journal of Endovascular Therapy
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Drug Delivery
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Разработка и регистрация лекарственных средств
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Social Cognitive and Affective Neuroscience
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Fluids and Barriers of the CNS
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Core Evidence
+    website: https://www.dovepress.com/core-evidence-journal
+    name: Garry Walsh
+    email: g.m.walsh@abdn.ac.uk
+    status: sent-no-reply-yet
+  - title: Неотложная медицинская помощь. Журнал им. Н.В. Склифосовского
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Clinical and molecular hepatology
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Nutrition and Healthy Aging
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: New Zealand Medical Journal
+    website: https://www.nzma.org.nz/journal
+    name: Frank Frizelle
+    email: frank.frizelle@cdhb.health.nz
+    status: sent-no-reply-yet
+  - title: ВИЧ-инфекция и иммуносупрессии
+    website: https://hiv.bmoc-spb.ru/jour
+    name: Николай Беляков
+    email: beliakov.akad.spb@yandex.ru
+    status: sent-no-reply-yet
+  - title: Opera Medica et Physiologica
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Orphanet Journal of Rare Diseases
+    website: https://ojrd.biomedcentral.com/
+    name: Francesc Palau
+    email: fpalau@sjdhospitalbarcelona.org
+    status: sent-no-reply-yet
+  - title: Neurosurgical Focus
+    website: https://thejns.org/focus/view/journals/neurosurg-focus/neurosurg-focus-overview.xml
+    name: William Couldwell
+    email: William.Couldwell@hsc.utah.edu
+    status: sent-no-reply-yet
+  - title: EClinicalMedicine
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: BMC Palliative Care
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Stem cells translational medicine
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: European Cells and Materials
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Allergology International
+    website: https://www.journals.elsevier.com/allergology-international
+    name: Hiroshi Nakajima
+    email: nakajimh@faculty.chiba-u.jp
+    status: sent-no-reply-yet
+  - title: Фармакоэкономика. Современная фармакоэкономика и фармакоэпидемиология
+    website: https://www.pharmacoeconomics.ru/jour
+    name: Виталий Омельяновский
+    email: vvo@hta-rus.ru
+    status: sent-undelivered
+  - title: Journal of Tissue Engineering
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: BMC Medicine
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Nutrition and Metabolism
+    website: https://nutritionandmetabolism.biomedcentral.com
+    name: Xu Lin; Lorraine Brennan
+    email: xlin@sibs.ac.cn?cc=lorraine.brennan@ucd.ie
+    status: sent-no-reply-yet
+  - title: Trials
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Медичні перспективи
+    website: https://medpers.dsma.dp.ua
+    name: Тетяна Перцева
+    email: tpertseva@dma.dp.ua
+    status: sent-no-reply-yet
+  - title: Journal of Orthopaedics and Traumatology
+    website: https://jorthoptraumatol.springeropen.com
+    name: Marco d’Imporzano
+    email: dimpomarco@live.it
+    status: sent-no-reply-yet
+  - title: Yeast
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: International Journal of Infectious Diseases
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Социальная и клиническая психиатрия
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: "Фармакоэкономика: теория и практика"
+    website: https://pharmacoeconom.com/
+    name: Роза Ягудина
+    email: yagudina@inbox.ru
+    status: sent-no-reply-yet
+  - title: Archaea
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Journal of Nanobiotechnology
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Implementation Science
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: BMJ Open
+    website: https://bmjopen.bmj.com/
+    name: Adrian Aldcroft
+    email: adrian.aldcroft@biomedcentral.com
+    status: sent-undelivered
+  - title: Медицинский вестник Северного Кавказа
+    website: https://medvestnik.stgmu.ru
+    name: Александр Ягода
+    email: alexander.yagoda@gmail.com
+    status: sent-no-reply-yet
+  - title: Archives of Medical Science
+    website: https://www.termedia.pl/Journal/Archives_of_Medical_Science-19
+    name: Maciej Banach
+    email: m.banach@termedia.pl
+    status: sent-no-reply-yet
+  - title: Veterinary Quarterly
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: International Journal of COPD
+    website: https://www.dovepress.com/international-journal-of-chronic-obstructive-pulmonary-disease-journal
+    name: Richard Russell
+    email: richard.russell@ndm.ox.ac.uk
+    status: sent-no-reply-yet
+  - title: Current Issues in Molecular Biology
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: BMC psychology
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Экология человека
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Запорожский медицинский журнал
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Проблемы особо опасных инфекций
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: 
+    website: 
+    name: Лилия Зиганшина
+    email: 
+    status: replied-voiced-support
+  - title: Онкоурология
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: JAMA network open
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Рациональная фармакотерапия в кардиологии
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: "MMWR. Recommendations and reports : Morbidity and mortality weekly report. Recommendations and reports / Centers for Disease Control"
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Биомедицина
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Journal of Korean Medical Science
+    website: https://jkms.org
+    name: Sung-Tae Hong
+    email: hst@snu.ac.kr
+    status: sent-no-reply-yet
+  - title: Вопросы онкологии
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Health and Quality of Life Outcomes
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Health Research Policy and Systems
+    website: https://health-policy-systems.biomedcentral.com/
+    name: Fadi El-Jardali; Tari Turner
+    email: fe08@aub.edu.lb?cc=Tari.Turner@monash.edu
+    status: sent-no-reply-yet
+  - title: Yale Journal of Biology and Medicine
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Nucleus
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Человек. Спорт. Медицина
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Bulletin of the World Health Organization
+    website: https://www.who.int/publications/journals/bulletin/
+    name: Laragh Gollogly
+    email: golloglyl@who.int
+    status: sent-no-reply-yet
+  - title: Acta Dermato-Venereologica
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Cancer Science
+    website: https://onlinelibrary.wiley.com/journal/13497006
+    name: Kohei Miyazono
+    email: miyazono@m.u-tokyo.ac.jp
+    status: sent-no-reply-yet
+  - title: F1000Research
+    website: https://f1000research.com
+    name: Michael Markie
+    email: research@f1000.com
+    status: sent-no-reply-yet
+  - title: Molecular Systems Biology
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Journal of Microbiology, Immunology and Infection
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Frontiers in Medicine
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Journal of Veterinary Internal Medicine
+    website: https://onlinelibrary.wiley.com/journal/19391676
+    name: Ivy Leventhal
+    email: jvim@acvim.org
+    status: sent-auto-replied
+  - title: Journal of Psychiatry and Neuroscience
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Анализ риска здоровью
+    website: https://journal.fcrisk.ru/
+    name: Геннадий Онищенко
+    email: journal@fcrisk.ru
+    status: resent-no-reply-yet
+  - title: Cellular Therapy and Transplantation
+    website: http://www.cttjournal.com/
+    name: Александр Кулагин
+    email: kulagingem@rambler.ru
+    status: sent-no-reply-yet
+  - title: Journal of Athletic Training
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Детские инфекции
+    website: https://detinf.elpub.ru/jour
+    name: Василий Учайкин
+    email: uchaikin_vf@rsmu.ru?cc=uchaikin@list.ru
+    status: sent-no-reply-yet
+  - title: Cell Structure and Function
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Cell Death and Disease
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: MMWR. Morbidity and mortality weekly report
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Journal of Gynecologic Oncology
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: DNA Research
+    website: https://academic.oup.com/dnaresearch
+    name: Satoshi Tabata
+    email: tabata@kazusa.or.jp
+    status: sent-no-reply-yet
+  - title: Annals of Translational Medicine
+    website: http://atm.amegroups.com/
+    name: Xuehao Wang; Yinghao Sun; Jianxing He
+    email: wangxh@njmu.edu.cn?cc=sunyhsmmu@126.com, drjianxing.he@gmail.com
+    status: sent-no-reply-yet
+  - title: Biomolecular Concepts
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Bulletin of Russian State Medical University
+    website: https://vestnik.rsmu.press
+    name: Денис Ребриков
+    email: rebrikov_dv@rsmu.ru
+    status: sent-no-reply-yet
+  - title: Global Advances In Health and Medicine
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: PeerJ
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Wellcome Open Research
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Обозрение психиатрии и медицинской психологии имени В.М. Бехтерева
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: The Lancet
+    website: https://www.thelancet.com/journals/lancet/home
+    name: Richard Horton
+    email: richard.horton@lancet.com
+    status: sent-no-reply-yet
+  - title: Infectious Diseases of Poverty
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Русский журнал детской неврологии
+    website: https://rjdn.abvpress.ru/jour
+    name: Андрей Петрухин
+    email: epineuro@ya.ru
+    status: sent-no-reply-yet
+  - title: Biomedical Journal
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Патологiя
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Неврология, нейропсихиатрия, психосоматика
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
   - title: npj Microgravity
     website: 
     name: 
     email: 
     status: not-sent-yet
+  - title: Патология кровообращения и кардиохирургия
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Biomaterials Research
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Particle and Fibre Toxicology
+    website: https://particleandfibretoxicology.biomedcentral.com/
+    name: Flemming Cassee
+    email: f.r.cassee@uu.nl
+    status: sent-no-reply-yet
   - title: Российский электронный журнал лучевой диагностики
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Социальные аспекты здоровья населения
     website: 
     name: 
     email: 
@@ -1214,7 +839,377 @@ party:
     name: 
     email: 
     status: not-sent-yet
+  - title: International Journal of Behavioral Nutrition and Physical Activity
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: World Journal of Gastroenterology
+    website: https://www.wjgnet.com/1007-9327/
+    name: Subrata Ghosh; Andrzej Tarnawski
+    email: ghoshs@bham.ac.uk?cc=atarnawski@yahoo.com
+    status: sent-undelivered
+  - title: Современные технологии в медицине
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: "Proceedings of the Japan Academy Series B: Physical and Biological Sciences"
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: DMM Disease Models and Mechanisms
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Анналы аритмологии
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: New England Journal of Medicine
+    website: https://www.nejm.org/
+    name: Maria Sedjo
+    email: msedjo@nejm.org
+    status: sent-no-reply-yet
+  - title: "G3: Genes, Genomes, Genetics"
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Российский биотерапевтический журнал
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: International Journal of Nanomedicine
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Сахарный диабет
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Вестник хирургии им. И.И. Грекова
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Ожирение и метаболизм
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Journal of Multidisciplinary Healthcare
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Clinical Interventions in Aging
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Гений ортопедии
+    website: http://ilizarov-journal.com/index.php/go
+    name: Александр Губин
+    email: shugu19@gubin.spb.ru
+    status: resent-no-reply-yet
+  - title: Harm Reduction Journal
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Advanced Science
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Channels
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Angle Orthodontist
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: BMC Neurology
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Cancer Imaging
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Сибирский психологический журнал
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: British Medical Journal
+    website: https://www.bmj.com
+    name: Fiona Godlee
+    email: fgodlee@bmj.com
+    status: sent-no-reply-yet
+  - title: Ugeskrift for Laeger
+    website: https://ugeskriftet.dk
+    name: Anja Pinborg
+    email: anja.bisgaard.pinborg@regionh.dk
+    status: sent-no-reply-yet
+  - title: Нейрохирургия
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Clinical and Translational Science
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Доктор.Ру
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Frontiers in Cellular and Infection Microbiology
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Deutsches Ärzteblatt
+    website: https://www.aerzteblatt.de
+    name: Egbert Maibach-Nagel
+    email: aerzteblatt@aerzteblatt.de
+    status: sent-no-reply-yet
+  - title: Eurosurveillance
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Upsala Journal of Medical Sciences
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Protein & Cell
+    website: https://www.springer.com/journal/13238
+    name: Zihe Rao
+    email: raozh@shanghaitech.edu.cn?cc=raozh@mail.tsinghua.edu.cn
+    status: sent-no-reply-yet
+  - title: Journal of Headache and Pain
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Systematic Reviews
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
   - title: Therapeutic Advances in Chronic Disease
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: EASE
+    website: https://ease.org.uk/
+    name: Mary Hodgson
+    email: secretary@ease.org.uk
+    status: sent-no-reply-yet
+  - title: Суицидология
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Evolution, Medicine and Public Health
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Research Results in Pharmacology
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Общая реаниматология
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Ethiopian Journal of Health Sciences
+    website: https://www.ethjhealths.org
+    name: Abraham Haileamlak
+    email: asratab@yahoo.com
+    status: sent-no-reply-yet
+  - title: The Lancet Global Health
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Вестник аритмологии
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: International Journal of Molecular Sciences
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Journal of Translational Medicine
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Perspectives on Medical Education
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Атеросклероз и дислипидемии
+    website: https://noatero.ru/ru/noa/jurnal
+    name: Валерий Кухарчук
+    email: v_kukharch@mail.ru
+    status: sent-no-reply-yet
+  - title: Molecular Oncology
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Acta Ophthalmologica
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Annals of Clinical Microbiology and Antimicrobials
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Экспериментальная и клиническая урология
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: "Environmental Health: A Global Access Science Source"
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Journal of Diabetes Investigation
+    website: https://onlinelibrary.wiley.com/journal/20401124
+    name: Nigishi Hotta
+    email: JDI@wiley.com
+    status: sent-no-reply-yet
+  - title: ICMJE
+    website: http://www.icmje.org
+    name: Darren Taichman
+    email: dtaichman@acponline.org
+    status: sent-no-reply-yet
+  - title: Blood Transfusion
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Фармация и фармакология
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Acta Orthopaedica
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Клиническая микробиология и антимикробная химиотерапия
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Journal of Biomedical Science
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Клиническая фармакология и терапия
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Nutrition Journal
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: The Lancet Planetary Health
+    website: https://www.thelancet.com/journals/lanplh/home
+    name: Alastair Brown
+    email: Alastair.Brown@lancet.com
+    status: sent-no-reply-yet
+  - title: Вестник трансплантологии и искусственных органов
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Biomedicines
+    website: https://www.mdpi.com/journal/biomedicines
+    name: Shaker Mousa
+    email: shaker.mousa@acphs.edu
+    status: sent-no-reply-yet
+  - title: Genetics, Selection, Evolution
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Вестник офтальмологии
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Онкопедиатрия
+    website: http://www.spr-journal.ru/ojs/index.php/onco
+    name: Владимир Поляков
+    email: vgp-04@mail.ru
+    status: sent-no-reply-yet
+  - title: 
+    website: 
+    name: Matthew Page
+    email: 
+    status: replied-voiced-support
+  - title: Tumor Biology
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Педиатрическая фармакология
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Российский кардиологический журнал
+    website: https://russjcardiol.elpub.ru/jour/index
+    name: Евгений Шляхто
+    email: e.shlyakhto@almazovcentre.ru
+    status: sent-no-reply-yet
+  - title: eNeuro
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Circulation Journal
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Theranostics
     website: 
     name: 
     email: 
@@ -1224,7 +1219,12 @@ party:
     name: 
     email: 
     status: not-sent-yet
-  - title: EClinicalMedicine
+  - title: Травматология и ортопедия России
+    website: 
+    name: 
+    email: 
+    status: not-sent-yet
+  - title: Lupus Science and Medicine
     website: 
     name: 
     email: 
