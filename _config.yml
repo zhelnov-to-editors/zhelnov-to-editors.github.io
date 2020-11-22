@@ -55,8 +55,8 @@ data-max:
   en: 700
   ru: 56000
 data-value:
-  en: 0.01
-  ru: 0.01
+  en: 8.31
+  ru: 664.8
 table:
   caption:
     en: "Table of Recipients (in a random order):"
@@ -82,7 +82,23 @@ table:
   resent-no-reply-yet:
     en: Resent, no reply yet
     ru: Отправлено повторно, ответа пока нет
+  replied-voiced-support:
+    en: Replied, voiced support 🎉
+    ru: Ответили, высказались в поддержку 🎉
+  replied-sent-money:
+    en: Replied, sent money 💸
+    ru: Ответили, отправили деньги 💸
 party:
+  - title: 
+    website: 
+    name: Matthew Page
+    email: 
+    status: replied-voiced-support
+  - title: 
+    website: 
+    name: Лилия Зиганшина
+    email: 
+    status: replied-voiced-support
   - title: Transgender Health
     website: https://home.liebertpub.com/publications/transgender-health/634/
     name: Robert Garofalo
@@ -147,7 +163,7 @@ party:
     website: http://ilizarov-journal.com/index.php/go
     name: Александр Губин
     email: shugu19@gubin.spb.ru
-    status: resent-no-reply-yet
+    status: replied-sent-money
   - title: Biomedicines
     website: https://www.mdpi.com/journal/biomedicines
     name: Shaker Mousa
