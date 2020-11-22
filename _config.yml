@@ -55,8 +55,8 @@ data-max:
   en: 700
   ru: 56000
 data-value:
-  en: 10
-  ru: 800
+  en: 13.75
+  ru: 1100
 table:
   caption:
     en: "Table of Recipients (in a random order):"
@@ -588,7 +588,7 @@ party:
     website: https://scholar.google.com/citations?user=9MSgp58AAAAJ
     name: 
     email: 
-    status: replied-voiced-support
+    status: replied-sent-money
   - title: Онкоурология
     website: 
     name: 
