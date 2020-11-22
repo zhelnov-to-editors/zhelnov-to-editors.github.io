@@ -584,9 +584,9 @@ party:
     name: 
     email: 
     status: not-sent-yet
-  - title: 
-    website: 
-    name: Лилия Зиганшина
+  - title: Лилия Зиганшина
+    website: https://scholar.google.com/citations?user=9MSgp58AAAAJ
+    name: 
     email: 
     status: replied-voiced-support
   - title: Онкоурология
@@ -1179,9 +1179,9 @@ party:
     name: Владимир Поляков
     email: vgp-04@mail.ru
     status: sent-no-reply-yet
-  - title: 
-    website: 
-    name: Matthew Page
+  - title: Matthew Page
+    website: https://matthewjamespage.com
+    name: 
     email: 
     status: replied-voiced-support
   - title: Tumor Biology
