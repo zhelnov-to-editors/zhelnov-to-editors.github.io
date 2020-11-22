@@ -249,45 +249,45 @@ party:
     email: fe08@aub.edu.lb?cc=Tari.Turner@monash.edu
     status: sent-no-reply-yet
   - title: Archives of Medical Science
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://www.termedia.pl/Journal/Archives_of_Medical_Science-19
+    name: Maciej Banach
+    email: m.banach@termedia.pl
+    status: sent-no-reply-yet
   - title: Детские инфекции
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://detinf.elpub.ru/jour
+    name: Василий Учайкин
+    email: uchaikin_vf@rsmu.ru?cc=uchaikin@list.ru
+    status: sent-no-reply-yet
   - title: Orphanet Journal of Rare Diseases
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://ojrd.biomedcentral.com/
+    name: Francesc Palau
+    email: fpalau@sjdhospitalbarcelona.org
+    status: sent-no-reply-yet
   - title: "Фармакоэкономика: теория и практика"
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://pharmacoeconom.com/
+    name: Роза Ягудина
+    email: yagudina@inbox.ru
+    status: sent-no-reply-yet
   - title: Вопросы современной педиатрии
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://vsp.spr-journal.ru/jour
+    name: Александр Баранов
+    email: baranov@pediatr-russia.ru
+    status: sent-no-reply-yet
   - title: Allergology International
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://www.journals.elsevier.com/allergology-international
+    name: Hiroshi Nakajima
+    email: nakajimh@faculty.chiba-u.jp
+    status: sent-no-reply-yet
   - title: World Journal of Gastroenterology
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://www.wjgnet.com/1007-9327/
+    name: Subrata Ghosh; Andrzej Tarnawski
+    email: ghoshs@bham.ac.uk?cc=atarnawski@yahoo.com
+    status: sent-no-reply-yet
   - title: BMJ Open
-    website: 
-    name: 
-    email: 
-    status: not-sent-yet
+    website: https://bmjopen.bmj.com/
+    name: Adrian Aldcroft
+    email: adrian.aldcroft@biomedcentral.com
+    status: sent-no-reply-yet
   - title: Новости хирургии
     website: 
     name: 
