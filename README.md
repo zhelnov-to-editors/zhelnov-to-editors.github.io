@@ -12,7 +12,7 @@ In addition to providing direct financial support for the PRISMA translation, cr
 
 The [PRISMA 2020 Statement preprint](https://doi.org/10.31222/osf.io/v7gm2) is roughly 70,000 characters in length, so, assuming the [translation rate of $10 per 1,000 characters](https://translate.google.com/translate_c?&sl=ru&tl=en&u=https://hire.p1m.org), the project cost is **$700.** Depending on the amount raised, I would like to additionally translate the [PRISMA 2020 Explanation & Elaboration preprint](https://doi.org/10.31222/osf.io/gwdhk), a separate document roughly 160,000 characters in length (**$2,300** in total). I will relocate any excess funds into [my separate nonprofit Open Evidence Synthesis project](https://zheln.com).
 
-If you are interested in increasing Russian-speaking presence in evidence synthesis, please support my translation by either disseminating this Letter or [becoming its sponsor](https://opencollective.com/zheln). You can also contact me directly via [email](mailto:pavel@zheln.com), via [Telegram](https://t.me/drzhelnov), on [Twitter](https://twitter.com/drzhelnov), or on [Facebook](https://facebook.com/drzhelnov). 
+If you are interested in increasing Russian-speaking presence in evidence synthesis, please support my translation by either disseminating this Letter or [becoming its sponsor](https://opencollective.com/zheln/contribute/prisma-statement-in-russian-23512). You can also contact me directly via [email](mailto:pavel@zheln.com), via [Telegram](https://t.me/drzhelnov), on [Twitter](https://twitter.com/drzhelnov), or on [Facebook](https://facebook.com/drzhelnov). 
 
 To ensure transparency, I will publish the list of parties I made contact with as well as their reactions to this Letter in the [Table of Recipients](https://zhelnov-to-editors.github.io/en/#table) below.
 
@@ -26,4 +26,4 @@ Portfolio: [GitHub](https://github.com/pussiatoday), [OSF](https://osf.io/9c83x)
 
 Contact: [Email](mailto:pavel@zheln.com), [Telegram](https://t.me/drzhelnov), [Twitter](https://twitter.com/drzhelnov), [Facebook](https://facebook.com/drzhelnov)
 
-Send money: [Open Collective](https://opencollective.com/zheln)
+Send money: [Open Collective](https://opencollective.com/zheln/contribute/prisma-statement-in-russian-23512)
