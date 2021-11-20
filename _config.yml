@@ -28,7 +28,7 @@ social:
 title: Zhelnov to Editors
 description: An open letter to editors of medical journals by Pavel Zhelnov about his Russian translation of the PRISMA 2020 Statement.
 archival-notice:
-  en: Archived version. The crowdfunding campaign has officially been discontinued on November 20th, 2021, due to low response rate.
+  en: Archived version. The crowdfunding campaign was officially discontinued on November 20th, 2021, due to low response rate.
   ru: Архивная версия. Краудфандинговая кампания официально прекращена 20 ноября 2021 г. ввиду низкого отклика.
 header:
   en: Zhelnov to Editors
@@ -74,8 +74,8 @@ table:
     en: Not sent yet
     ru: Еще не отправлено
   sent-no-reply-yet:
-    en: Sent, no reply yet
-    ru: Отправлено, ответа пока нет
+    en: Sent, no reply
+    ru: Отправлено, ответа нет
   sent-auto-replied:
     en: Sent, auto-reply received
     ru: Отправлено, получен автоответ
@@ -83,8 +83,8 @@ table:
     en: Sent, undelivered, returned
     ru: Отправлено, не доставлено, возвращено
   resent-no-reply-yet:
-    en: Resent, no reply yet
-    ru: Отправлено повторно, ответа пока нет
+    en: Resent, no reply
+    ru: Отправлено повторно, ответа нет
   replied-voiced-support:
     en: Replied, voiced support 🎉
     ru: Ответили, высказались в поддержку 🎉
