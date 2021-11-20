@@ -26,4 +26,4 @@ Portfolio: [GitHub](https://github.com/pvzhelnov), [OSF](https://osf.io/9c83x), 
 
 Contact: [Email](mailto:pavel@zheln.com), [Telegram](https://t.me/drzhelnov), [Twitter](https://twitter.com/drzhelnov), [Facebook](https://facebook.com/drzhelnov)
 
-Send money: [Open Collective](https://opencollective.com/zheln/contribute/prisma-statement-in-russian-23512)
+Send money: Open Collective (archived)

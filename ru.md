@@ -31,4 +31,4 @@ lang: ru
 
 Связаться: [Email](mailto:pavel@zheln.com), [Telegram](https://t.me/drzhelnov), [Twitter](https://twitter.com/drzhelnov), [Facebook](https://facebook.com/drzhelnov)
 
-Перевести деньги: [Open Collective](https://opencollective.com/zheln/contribute/prisma-statement-in-russian-23512)
+Перевести деньги: Open Collective (в архиве)
